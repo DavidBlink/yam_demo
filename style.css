@@ -137,12 +137,12 @@ body {
 
 /*INDICE LATERAL*/
 body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, #book-index #indice .units ul li.active a {
-    background: #ea5b0c;
+    background: #FEF901;
 }
 
 
 #book-index .col-main {
-        background: #ea5b0c;
+        background: #FEF901;
 }
 
 
@@ -169,7 +169,7 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, #bo
 }
 
 #indice .unit-content .header .title {
-    color: #ea5b0c;
+    color: #FEF901;
     background: #ffffff9e;
     /*float: left;*/
     font-size: 30px;
@@ -208,7 +208,7 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, #bo
 
 #indice .units ul li.active:not(.disabled),
 #indice .units ul li:focus:not(.disabled) {
-    background: #ea5b0c;
+    background: #FEF901;
 }
 
 #indice .units ul li.hover:not(.disabled),
@@ -236,7 +236,7 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 #book-index #indice .unit-content a:focus,
 #indice .units ul li a:focus,
 #indice .actividades a:focus {
-    color: #ea5b0c;
+    color: #FEF901;
 }
 
 #book-index #indice .unit-content .actividades .item {
@@ -745,7 +745,7 @@ body:not(.edit) .slider-indicators {
 
 .bck-title-intro {
     font-size: 5rem;
-    color: #ea5b0c;
+    color: #FEF901;
 }
 
 /*Título 1 - Rojo*/
@@ -1685,11 +1685,11 @@ table,
 /*Boton toc - boton reininciar ejercicio*/
 
 .btn-primary {
-    background-color: #ea5b0c;
+    background-color: #FEF901;
 }
 
 .btn-primary, .btn-primary.disabled {
-    background-color: #ea5b0c;
+    background-color: #FEF901;
 }
 
 .btn-danger, .btn-danger[disabled] {
@@ -1705,11 +1705,11 @@ table,
 }
 
 .btn-primary, .btn-primary.disabled, .btn-primary.disabled:focus {
-    background-color: #ea5b0c;
+    background-color: #FEF901;
 }
 
 .btn-primary[disabled], .btn-primary[disabled]:focus {
-    background-color: #ea5b0c;
+    background-color: #FEF901;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary {
@@ -2046,7 +2046,7 @@ table,
 .activities-dropdown .nav-tabs > li.active > a:hover,
 .activities-dropdown .nav-tabs > li.active > a:focus {
     border: 0;
-    background: #ea5b0c;
+    background: #FEF901;
     color: #fff;
 }
 
