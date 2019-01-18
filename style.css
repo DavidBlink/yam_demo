@@ -784,6 +784,17 @@ body:not(.edit) .slider-indicators {
     font-size: 3.2rem;
 }
 
+/*Título Project*/
+.bck-title-5 {
+    background-image: url(Images/project-yam.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+    font-size: 10rem;
+
+}
+
 
 
 
@@ -1511,6 +1522,40 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
 /*icono Musica*/
 .icon-musica:before {
     background-image: url(Images/icono-musica-yam.png);
+    content: "";
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    background-position: center center;
+    display: inline-block;
+    vertical-align: middle;
+    height: 30px;
+    width: 33px;
+    margin-right: 3px;
+}
+
+/*icono MusicaMorado1*/
+.icon-musica1:before {
+    background-image: url(Images/icono-musica-morada1.png);
+    content: "";
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    background-position: center center;
+    display: inline-block;
+    vertical-align: middle;
+    height: 30px;
+    width: 33px;
+    margin-right: 3px;
+}
+
+/*icono MusicaMorado2*/
+.icon-musica2:before {
+    background-image: url(Images/icono-musica-morada2.png);
     content: "";
     background-repeat: no-repeat;
     -webkit-background-size: contain;
