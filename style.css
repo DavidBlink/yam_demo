@@ -366,6 +366,15 @@ body.is_app #actividad .class_slide {
 }
 
 #actividad .content .header .title h3:after {
+	background-image: url(Images/triangulo-blanco.png);
+    content: '';
+    background-size: contain;
+    background-repeat: no-repeat;
+  	padding: 20px;
+    position: absolute;
+    width: 40px;
+    height: auto;
+    left: 0;
    
    }
 
