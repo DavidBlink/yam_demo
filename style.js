@@ -49,6 +49,8 @@
 				{ name: 'Icono Hablar2', element: 'span', attributes: { 'class': 'icon icon-hablar2' } },
 				{ name: 'Icono Lapiz', element: 'span', attributes: { 'class': 'icon icon-lapiz' } },
 				{ name: 'Icono Musica', element: 'span', attributes: { 'class': 'icon icon-musica' } },
+				{ name: 'Icono MusicaMorado1', element: 'span', attributes: { 'class': 'icon icon-musica1' } },
+				{ name: 'Icono MusicaMorado2', element: 'span', attributes: { 'class': 'icon icon-musica2' } },
 				{ name: 'Icono Circulo', element: 'span', attributes: { 'class': 'icon icon-circulo' } },
 				{ name: 'Icono Cuadrados', element: 'span', attributes: { 'class': 'icon icon-cuadrados' } },
 
