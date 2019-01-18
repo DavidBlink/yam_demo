@@ -14,7 +14,9 @@
 			name: 'yam_demo',
 			styles: [
 				{ name: 'Título Intro', element: 'h2', attributes: { 'class': 'bck-title-intro'} },
-				{ name: 'Título BlancoInicio', element: 'h2', attributes: { 'class': 'bck-title-1'} },
+				{ name: 'Título Rojo', element: 'h2', attributes: { 'class': 'bck-title-1'} },
+				{ name: 'Título Verde', element: 'h2', attributes: { 'class': 'bck-title-2'} },
+				{ name: 'Título Relieve', element: 'h2', attributes: { 'class': 'bck-title-3'} },
 					
 
 				{ name: 'Énfasis', element: 'span', attributes: { 'class': 'bck-enfasis'} },
@@ -23,7 +25,7 @@
 				{ name: 'Lista DesNaranja', element: 'ul', attributes: { 'class': 'bck-ul-2'} },
 							
 
-				{ name: 'Lista OrdNaranja', element: 'ol', attributes: { 'class': 'bck-ol-1' } },
+				{ name: 'Lista 1', element: 'ol', attributes: { 'class': 'bck-ol-1' } },
 				{ name: 'Lista LetraMinusMorada', element: 'ol', attributes: { 'class': 'bck-ol-5' } },
 				{ name: 'Lista RectaAmarilla', element: 'ol', attributes: { 'class': 'bck-ol-3' } },
 								
@@ -41,7 +43,11 @@
 				{ name: 'Enlace web', element: 'a', attributes: { 'class': 'bck-link'} },
 				
 				{ name: 'Icono Hablar', element: 'span', attributes: { 'class': 'icon icon-hablar' } },
-				{ name: 'Icono Boligrafo', element: 'span', attributes: { 'class': 'icon icon-boli' } },
+				{ name: 'Icono Hablar2', element: 'span', attributes: { 'class': 'icon icon-hablar2' } },
+				{ name: 'Icono Lapiz', element: 'span', attributes: { 'class': 'icon icon-lapiz' } },
+				{ name: 'Icono Musica', element: 'span', attributes: { 'class': 'icon icon-musica' } },
+				{ name: 'Icono Circulo', element: 'span', attributes: { 'class': 'icon icon-circulo' } },
+				{ name: 'Icono Cuadrados', element: 'span', attributes: { 'class': 'icon icon-cuadrados' } },
 
 				{ name: 'Desplegable 1', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown-1' } },
 				{ name: 'Desplegable 2', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown-2' } }
