@@ -14,9 +14,11 @@
 			name: 'yam_demo',
 			styles: [
 				{ name: 'Título Intro', element: 'h2', attributes: { 'class': 'bck-title-intro'} },
-				{ name: 'Título Rojo', element: 'h2', attributes: { 'class': 'bck-title-1'} },
-				{ name: 'Título Verde', element: 'h2', attributes: { 'class': 'bck-title-2'} },
-				{ name: 'Título Relieve', element: 'h2', attributes: { 'class': 'bck-title-3'} },
+				{ name: 'Título 1', element: 'h2', attributes: { 'class': 'bck-title-1'} },
+				{ name: 'Título 2', element: 'h2', attributes: { 'class': 'bck-title-2'} },
+				{ name: 'Título 3', element: 'h2', attributes: { 'class': 'bck-title-3'} },
+				{ name: 'Título Relieve', element: 'h2', attributes: { 'class': 'bck-title-4'} },
+				
 					
 
 				{ name: 'Énfasis', element: 'span', attributes: { 'class': 'bck-enfasis'} },
