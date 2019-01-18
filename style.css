@@ -362,7 +362,7 @@ body.is_app #actividad .class_slide {
 }
 
 #actividad .content .header .title h3:before {
-    content: '\f101';
+    content: '\f0d9';
     margin-right: 10px;
     font-family: 'FontAwesome';
 }
