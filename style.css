@@ -362,12 +362,8 @@ body.is_app #actividad .class_slide {
 }
 
 #actividad .content .header .title h3:after {
-    content: '\f0d9';
-    margin-right: 10px;
-    font-family: 'FontAwesome';
-    right: 0px;
-    position: absolute;
-}
+   
+   }
 
 .slide_main input {
     color: #555;
