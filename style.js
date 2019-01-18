@@ -18,6 +18,7 @@
 				{ name: 'Título 2', element: 'h2', attributes: { 'class': 'bck-title-2'} },
 				{ name: 'Título 3', element: 'h2', attributes: { 'class': 'bck-title-3'} },
 				{ name: 'Título Relieve', element: 'h2', attributes: { 'class': 'bck-title-4'} },
+				{ name: 'Título Project', element: 'h2', attributes: { 'class': 'bck-title-5'} },
 				
 					
 
