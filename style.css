@@ -62,7 +62,7 @@
 /*General */
 body {
     height: 100vh;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 400;
     
     
@@ -697,7 +697,7 @@ body:not(.edit) .slider-indicators {
 
 
 #actividad .player.audio {
-    background-image: url(Images/icono-audio-parachute.png);
+    background-image: url(Images/icono-audio-yam.png);
     -webkit-background-size: 100% 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
@@ -742,11 +742,32 @@ body:not(.edit) .slider-indicators {
     color: #ea5b0c;
 }
 
-/*Título BlancoInicio*/
+/*Título 1 - Rojo*/
 .bck-title-1 {
-    color: #fff;
+    color: #F03F23;
     font-size: 3.2rem;
 }
+
+/*Título 2 - Verde*/
+.bck-title-2 {
+    color: #F03F23;
+    font-size: 3.2rem;
+}
+
+/*Título 3 - Amarillo*/
+.bck-title-3 {
+    color: #F03F23;
+    font-size: 3.2rem;
+}
+
+/*Título Relieve*/
+.bck-title-4 {
+    color: #F03F23;
+    font-size: 3.2rem;
+}
+
+
+
 
 
 /*-------------*/
@@ -910,13 +931,12 @@ body:not(.edit) .slider-indicators {
     width: 26px;
     height: 26px;
     position: absolute;
-    color: #ffffff;
-    background: #ec6608;
+    color: #00A2DE;
+    background: none;
     margin-left: -30px;
     margin-right: 0px;
-    border-radius: 100%;
     text-align: center;
-    font-size: 1.9rem;
+    font-size: 2.4rem;
     font-weight: normal;
     line-height: 26px;
 }
@@ -1421,7 +1441,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
 
 /*icono Hablar*/
 .icon-hablar:before {
-    background-image: url(Images/icono-hablar.png);
+    background-image: url(Images/icono-hablar-ya.png);
     content: "";
     background-repeat: no-repeat;
     -webkit-background-size: contain;
@@ -1436,9 +1456,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     margin-right: 3px;
 }
 
-/*icono Boligrafo*/
-.icon-boli:before {
-    background-image: url(Images/icono-boli-parachute.png);
+/*icono Hablar2*/
+.icon-hablar2:before {
+    background-image: url(Images/icono-hablar2-yam.png);
     content: "";
     background-repeat: no-repeat;
     -webkit-background-size: contain;
@@ -1452,6 +1472,78 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365785', end
     width: 33px;
     margin-right: 3px;
 }
+
+/*icono Lapiz*/
+.icon-lapiz:before {
+    background-image: url(Images/icono-lapiz-yam.png);
+    content: "";
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    background-position: center center;
+    display: inline-block;
+    vertical-align: middle;
+    height: 30px;
+    width: 33px;
+    margin-right: 3px;
+}
+
+/*icono Musica*/
+.icon-musica:before {
+    background-image: url(Images/icono-musica-yam.png);
+    content: "";
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    background-position: center center;
+    display: inline-block;
+    vertical-align: middle;
+    height: 30px;
+    width: 33px;
+    margin-right: 3px;
+}
+
+/*icono Circulo*/
+.icon-circulo:before {
+    background-image: url(Images/icono-circulo-yam.png);
+    content: "";
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    background-position: center center;
+    display: inline-block;
+    vertical-align: middle;
+    height: 30px;
+    width: 33px;
+    margin-right: 3px;
+}
+
+/*icono Cuadrados*/
+.icon-cuadrados:before {
+    background-image: url(Images/icono-cuadrados-yam.png);
+    content: "";
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    background-position: center center;
+    display: inline-block;
+    vertical-align: middle;
+    height: 30px;
+    width: 33px;
+    margin-right: 3px;
+}
+
+
+
+
 
 
 
