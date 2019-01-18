@@ -62,7 +62,7 @@
 /*General */
 body {
     height: 100vh;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 400;
     
     
@@ -361,10 +361,12 @@ body.is_app #actividad .class_slide {
     padding: 5px 30px 5px 10px;
 }
 
-#actividad .content .header .title h3:before {
+#actividad .content .header .title h3:after {
     content: '\f0d9';
     margin-right: 10px;
     font-family: 'FontAwesome';
+    right: 0px;
+    position: absolute;
 }
 
 .slide_main input {
@@ -717,8 +719,8 @@ body:not(.edit) .slider-indicators {
 
 
 #actividad .content img.player, #actividad .player.audio, #actividad .player.video, #help-panel-content .player, #remote-alert-modal-rich .player {
-    height: 25px !important;
-    width: 27px;
+    height: 30px !important;
+    width: 35px;
     display: inline-block;
     background-repeat: no-repeat;
     border-radius: 0;
@@ -750,6 +752,8 @@ body:not(.edit) .slider-indicators {
 .bck-title-1 {
     color: #F03F23;
     font-size: 3.2rem;
+    text-align: center;
+    font-weight: 700;
 }
 
 /*Título 2 - Verde*/
@@ -932,17 +936,17 @@ body:not(.edit) .slider-indicators {
 #actividad .popover-content .bck-ol-1 li:before,
 #actividad .content .workspace ul li .bck-ol-1 li:before {
     content: counter(bck-li-counter);
-    width: 26px;
-    height: 26px;
+    width: 27px;
+    height: 27px;
     position: absolute;
-    color: #00A2DE;
+    color: #00ADEE;
     background: none;
     margin-left: -30px;
     margin-right: 0px;
     text-align: center;
     font-size: 2.4rem;
-    font-weight: normal;
-    line-height: 26px;
+    font-weight: 700;
+    line-height: 27px;
 }
 
 
