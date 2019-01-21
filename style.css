@@ -734,7 +734,7 @@ body:not(.edit) .slider-indicators {
     background-repeat: no-repeat;
     border-radius: 0;
     margin-right: 5px;
-    vertical-align: sub;
+    vertical-align: text-top;
     padding: 0px;
 }
 
