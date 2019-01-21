@@ -1106,10 +1106,11 @@ body:not(.edit) .slider-indicators {
     background-color: #ED155B;
     color: #FFF;
     width: fit-content;
+    font-weight: 700;
     width: -moz-fit-content;
     height: auto;
     font-size: 3.5rem;
-    border-radius: 10px;
+    border-radius: 10px 10px 0px 0px;
     padding: 4px 4px 4px 4px;
 }
 
