@@ -1106,50 +1106,6 @@ body:not(.edit) .slider-indicators {
     margin-top: -1px;
 }
 
-
-
-/*Lista RectaAmarilla*/
-#actividad .content .cke_contents .bck-ol-3,
-#actividad .content .texto_curso .bck-ol-3,
-#actividad .content .workspace ul li .bck-ol-3 {
-    list-style-type: none;
-    counter-reset: bck-li-counter;
-}
-
-#actividad .content .cke_contents .bck-ol-3 li,
-#actividad .content .cke_contents .bck-ol-3 li,
-#actividad .content .texto_curso .bck-ol-3 li,
-#actividad .popover-content .bck-ol-3 li,
-#actividad .content .workspace ul li .bck-ol-3 li {
-    counter-increment: bck-li-counter;
-    padding-left: 0px;
-    position: relative;
-    z-index: 0;
-    font-size: 2.2rem;
-    font-weight: 600;
-    color: #ec6608;
-    margin-top: 10px;
-}
-
-#actividad .content .cke_contents .bck-ol-3 li:before,
-#actividad .content .texto_curso ol.bck-ol-3 li:before,
-#actividad .popover-content ol.bck-ol-3 li:before,
-#actividad .content .workspace ul li ol.bck-ol-3 li:before {
-    content: counter(bck-li-counter)'';
-    background: #FFCB06;
-    -webkit-box-shadow: 0 2px 5px 0 #D2A806;
-    box-shadow: 0 2px 5px 0 #D2A806;
-    margin-top: 1px;
-    padding-left: 40px;
-    padding-right: 5px;
-    color: #FFF;
-    margin-left: -62px;
-    margin-right: 10px;
-    font-size: 2.2rem;
-    font-weight: 600;
-    text-align: right;
-}
-
 /**/
 
 /*BOXES*/
