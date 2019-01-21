@@ -767,7 +767,7 @@ body:not(.edit) .slider-indicators {
 
 /*Título 2 - Verde*/
 .bck-title-2 {
-    color: #F03F23;
+    color: #299547;
     font-size: 3.2rem;
 }
 
@@ -806,6 +806,10 @@ body:not(.edit) .slider-indicators {
     font-size: 5rem;
 }
 
+/*Enfasis ColorRojo*/
+.bck-enfasis {
+    color: #EE1C25;
+}
 
 
 
