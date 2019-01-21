@@ -1132,7 +1132,21 @@ body:not(.edit) .slider-indicators {
     padding: 8px 8px 8px 8px;
 }
 
+/*CAJA2- CajaFondoColor*/
 
+.bck-box.bck-box-2 {
+    margin-top: 15px;
+}
+
+.bck-box-1 .bck-title {
+    
+}
+
+.bck-box.bck-box-2 .bck-content {
+    padding-left: 30px;
+    background-color: #CAECFC;
+    padding: 8px 8px 8px 8px;
+}
 
 
 
