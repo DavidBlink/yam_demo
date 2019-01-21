@@ -14,15 +14,17 @@
 			name: 'yam_demo',
 			styles: [
 				{ name: 'Título Intro', element: 'h2', attributes: { 'class': 'bck-title-intro'} },
-				{ name: 'Título 1', element: 'h2', attributes: { 'class': 'bck-title-1'} },
-				{ name: 'Título 2', element: 'h2', attributes: { 'class': 'bck-title-2'} },
-				{ name: 'Título 3', element: 'h2', attributes: { 'class': 'bck-title-3'} },
+				{ name: 'Título 1-Rojo', element: 'h2', attributes: { 'class': 'bck-title-1'} },
+				{ name: 'Título 2-Verde', element: 'h2', attributes: { 'class': 'bck-title-2'} },
+				{ name: 'Título 3-Amarillo', element: 'h2', attributes: { 'class': 'bck-title-3'} },
 				{ name: 'Título Relieve', element: 'h2', attributes: { 'class': 'bck-title-4'} },
 				{ name: 'Título Project', element: 'h2', attributes: { 'class': 'bck-title-5'} },
 				
 					
 
 				{ name: 'Énfasis', element: 'span', attributes: { 'class': 'bck-enfasis'} },
+				{ name: 'ColorRojo', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
+				
 				
 				{ name: 'Lista TrianguloNaranja', element: 'ul', attributes: { 'class': 'bck-ul-1'} },
 				{ name: 'Lista DesNaranja', element: 'ul', attributes: { 'class': 'bck-ul-2'} },
