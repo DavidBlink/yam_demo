@@ -366,7 +366,8 @@ body.is_app #actividad .class_slide {
     background-color: #00ADEE;
     width: fit-content;
     width: -moz-fit-content;
-    padding: 5px 50px 5px 15px;
+    padding: 5px 50px 5px 115px;
+    margin-left: -99px;
 }
 
 #actividad .content .header .title h3:after {
