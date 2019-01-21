@@ -366,17 +366,16 @@ body.is_app #actividad .class_slide {
 }
 
 #actividad .content .header .title h3:after {
-    background-image: url(Images/triangulo-blanco.png);
+    background-image: url(Images/triangulo-blanco2.png);
     content: '';
     background-size: contain;
     background-repeat: no-repeat;
-    padding: 49px;
+    padding: 30px;
     position: absolute;
     width: 0px;
     height: auto;
-    margin-left: 14px;
-    top: 23px;
-    /* left: 0; */
+    margin-left: 12.5px;
+    top: 41.5px;
 }
 
 .slide_main input {
