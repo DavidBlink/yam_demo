@@ -35,8 +35,7 @@
 				{ name: 'Lista 2', element: 'ol', attributes: { 'class': 'bck-ol-2' } },
 				{ name: 'Lista 3-Circulo', element: 'ol', attributes: { 'class': 'bck-ol-3' } },
 				{ name: 'Lista LetraMinusMorada', element: 'ol', attributes: { 'class': 'bck-ol-5' } },
-				{ name: 'Lista RectaAmarilla', element: 'ol', attributes: { 'class': 'bck-ol-3' } },
-								
+										
 
 				{ name: 'CajaAchieve!', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-1' } },
 				{ name: 'CajaFondoColor', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-2' } },
