@@ -32,6 +32,7 @@
 							
 
 				{ name: 'Lista 1', element: 'ol', attributes: { 'class': 'bck-ol-1' } },
+				{ name: 'Lista 2', element: 'ol', attributes: { 'class': 'bck-ol-2' } },
 				{ name: 'Lista LetraMinusMorada', element: 'ol', attributes: { 'class': 'bck-ol-5' } },
 				{ name: 'Lista RectaAmarilla', element: 'ol', attributes: { 'class': 'bck-ol-3' } },
 								
