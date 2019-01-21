@@ -783,6 +783,14 @@ body:not(.edit) .slider-indicators {
     font-size: 3.2rem;
 }
 
+/*Título 4 - Azul*/
+.bck-title-6 {
+    color: #00ADEE;
+    font-size: 3.2rem;
+    text-align: center;
+    font-weight: 700;
+}
+
 /*Título Relieve*/
 .bck-title-4 {
     color: #F03F23;
