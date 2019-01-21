@@ -1227,7 +1227,7 @@ body:not(.edit) .slider-indicators {
     margin-top: 15px;
 }
 
-.bck-box-1 .bck-title {
+.bck-box-2 .bck-title {
     
 }
 
@@ -1283,7 +1283,22 @@ body:not(.edit) .slider-indicators {
 
 
 
+/*CAJA4- CajaBordeColor*/
 
+.bck-box.bck-box-4 {
+    margin-top: 15px;
+    border: 2px solid #00ADEE;
+}
+
+.bck-box-4 .bck-title {
+    
+}
+
+.bck-box.bck-box-4 .bck-content {
+    padding-left: 30px;
+    background-color: #FFF;
+    padding: 8px 15px 8px 8px;
+}
 
 
 
