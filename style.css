@@ -780,8 +780,10 @@ body:not(.edit) .slider-indicators {
 
 /*Título 3 - Amarillo*/
 .bck-title-3 {
-    color: #F03F23;
+    color: #BFD630;
     font-size: 3.2rem;
+    text-align: center;
+    font-weight: 700;
 }
 
 /*Título 4 - Azul*/
