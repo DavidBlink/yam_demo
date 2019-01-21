@@ -1005,7 +1005,6 @@ body:not(.edit) .slider-indicators {
     padding-left: 0px;
     position: relative;
     z-index: 0;
-    font-weight: 700;
     margin-left: 0px;
     margin-top: 10px;
 }
