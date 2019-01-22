@@ -19,7 +19,7 @@
 				{ name: 'Título 3-Amarillo', element: 'h2', attributes: { 'class': 'bck-title-3'} },
 				{ name: 'Título 4-Azul', element: 'h2', attributes: { 'class': 'bck-title-6'} },
 				{ name: 'Título Story', element: 'h2', attributes: { 'class': 'bck-title-7'} },
-				{ name: 'Título Relieve', element: 'h2', attributes: { 'class': 'bck-title-4'} },
+				{ name: 'Título Phonics', element: 'h2', attributes: { 'class': 'bck-title-4'} },
 				{ name: 'Título Project', element: 'h2', attributes: { 'class': 'bck-title-5'} },
 				
 					
