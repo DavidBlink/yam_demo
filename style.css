@@ -819,8 +819,22 @@ body:not(.edit) .slider-indicators {
 
 /*Título Relieve*/
 .bck-title-4 {
-    color: #F03F23;
-    font-size: 3.2rem;
+    color: #00ADEE;
+    font-size: 5rem;
+}
+
+.bck-title-4:before {
+    background-image: url(Images/before-phonics-png-yam.png);
+    content: '';
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 40px;
+    position: absolute;
+    width: 0px;
+    height: auto;
+    left: 0;
+    top: -1px;
+    z-index: 100;
 }
 
 /*Título Project*/
