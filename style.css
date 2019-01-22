@@ -654,6 +654,11 @@ body:not(.edit) .slider-indicators {
     background-color: #ffffff;
 }
 
+#actividad .workspace.chooseblanks .solucion {
+    border-bottom: 1px solid #00bdff;
+    background-color: #bbffb6;
+}
+
 
 #actividad .workspace.matching .opcion {
     background: #fff;
