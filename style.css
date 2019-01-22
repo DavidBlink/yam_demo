@@ -809,18 +809,13 @@ body:not(.edit) .slider-indicators {
 /*Título 7 - Titulo Story*/
 .bck-title-7 {
     color: #EC008D;
-    font-size: 4rem;
+    font-size: 5rem;
     text-align: center;
     font-weight: 800;
     text-shadow: 2px 2px 1px #B5B5B5;
-    text-stroke-width: 2px;
     -webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: rgb(244,144,188); 
-    -webkit-text-stroke-color: (top, rgba(244,144,188,1) 1%, rgba(251,210,227,1) 42%, rgba(221,221,221,1) 100%); 
- 	text-stroke-color: (top, rgba(244,144,188,1) 1%,rgba(251,210,227,1) 42%,rgba(221,221,221,1) 100%); 
-	-moz-text-stroke-color: (to bottom, rgba(244,144,188,1) 1%,rgba(251,210,227,1) 42%,rgba(221,221,221,1) 100%); 
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f490bc', endColorstr='#dddddd',GradientType=0 ); 
-}
+    }
 
 /*Título Relieve*/
 .bck-title-4 {
