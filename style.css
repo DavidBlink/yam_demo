@@ -1220,10 +1220,24 @@ body:not(.edit) .slider-indicators {
     padding: 5px;
     font-size: 2.5rem;
     text-align: left;
+    font-weight: 600;
     padding-left: 20px;
     background-color: #EE1C25;
     color: #FFF;
     text-shadow: 1px 1px 0 #B7272E;
+}
+
+.bck-box.bck-box-3 .bck-content:after {
+    background-image: url(Images/triangulo-blanco2.png);
+    content: '';
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 30px;
+    position: absolute;
+    width: 0px;
+    height: auto;
+    margin-left: 12.5px;
+    top: 41.5px;
 }
 
 .bck-box.bck-box-3 .bck-title {
