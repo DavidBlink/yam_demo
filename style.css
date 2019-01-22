@@ -1071,6 +1071,7 @@ body:not(.edit) .slider-indicators {
     margin-left: 0px;
     margin-top: 10px;
     font-size: 2.2rem;
+    font-weight: 500;
 }
 
 
