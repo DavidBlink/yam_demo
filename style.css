@@ -1286,7 +1286,7 @@ body:not(.edit) .slider-indicators {
     width: 0px;
     height: auto;
     right: -16px;
-    top: -1px;
+    top: -4px;
 }
 
 .bck-box.bck-box-3 .bck-title {
