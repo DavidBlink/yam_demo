@@ -169,11 +169,11 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, #bo
 }
 
 #indice .unit-content .header .title {
-    color: #ea5b0c;
+    color: #1cb3df;
     background: #ffffff9e;
     /*float: left;*/
     font-size: 30px;
-    font-weight: 500;
+    font-weight: 700;
     line-height: 34px;
     padding: 5px 20px;
     height: 50px;
@@ -208,13 +208,13 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, #bo
 
 #indice .units ul li.active:not(.disabled),
 #indice .units ul li:focus:not(.disabled) {
-    background: #ea5b0c;
+    background: #139dc5;
 }
 
 #indice .units ul li.hover:not(.disabled),
 body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 #indice .units ul li:hover:not(.disabled) {
-    background: #f97227;
+    background: #1cb3df;
 }
 
 #book-index #indice .unit-content a,
