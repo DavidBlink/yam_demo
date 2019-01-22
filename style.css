@@ -112,8 +112,24 @@ body {
 /*tamaño enunciado listas*/
 
 #actividad .pregunta .texto_curso {
-        font-size: 1.8rem;
+        font-size: 2rem;
 }
+
+/*tamaño p*/
+
+.texto_curso p {
+	line-height: 1.43em!important;
+    margin-bottom: 20px;
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+p {
+    margin: 0 0 10px;
+    font-size: 2rem;
+    font-weight: 500;
+}
+
 
 /*ENLACE WEB*/
 
