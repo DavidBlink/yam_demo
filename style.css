@@ -821,6 +821,8 @@ body:not(.edit) .slider-indicators {
 .bck-title-4 {
     color: #00ADEE;
     font-size: 5rem;
+    margin-left: 70px;
+    font-weight: 700;
 }
 
 .bck-title-4:before {
@@ -828,12 +830,12 @@ body:not(.edit) .slider-indicators {
     content: '';
     background-size: contain;
     background-repeat: no-repeat;
-    padding: 40px;
+    padding: 60px;
     position: absolute;
     width: 0px;
     height: auto;
-    left: 0;
-    top: -1px;
+    left: -30px;
+    top: -7px;
     z-index: 100;
 }
 
