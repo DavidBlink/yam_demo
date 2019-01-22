@@ -3,7 +3,7 @@
 /* Fonts */
 
 
-    @font-face {
+	@font-face {
       font-family: Gotham;
       src: url(fonts/Gotham-Bold.otf);
     }
@@ -12,6 +12,13 @@
       font-family: HurmeGeometricSans;
       src: url(fonts/HurmeGeometricSans3-Bold.otf);
     }
+
+    @font-face {
+      font-family: HurmeGeometricSans-regular;
+      src: url(fonts/HurmeGeometricSans3-Regular.otf);
+    }
+
+    
 
     @font-face {
       font-family: JacobyICG;
@@ -93,7 +100,7 @@ body {
     height: 100vh;
     font-size: 16px;
     font-weight: 500;
-    font-family: HurmeGeometricSans;
+    font-family: HurmeGeometricSans-regular;
     
     
 }
