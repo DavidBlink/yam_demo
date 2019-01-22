@@ -26,6 +26,8 @@
 
 				{ name: 'Énfasis', element: 'span', attributes: { 'class': 'bck-enfasis'} },
 				{ name: 'ColorRojo', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
+				{ name: 'FontInfantil', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
+				{ name: 'FontInfantilPuntos', element: 'span', attributes: { 'class': 'bck-enfasis-3'} },
 				
 				
 				{ name: 'Lista TrianguloNaranja', element: 'ul', attributes: { 'class': 'bck-ul-1'} },
