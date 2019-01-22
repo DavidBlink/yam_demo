@@ -1232,12 +1232,12 @@ body:not(.edit) .slider-indicators {
     content: '';
     background-size: contain;
     background-repeat: no-repeat;
-    padding: 30px;
+    padding: 24px;
     position: absolute;
     width: 0px;
     height: auto;
-    margin-left: 12.5px;
-    top: 41.5px;
+    right: -16px;
+    top: -1px;
 }
 
 .bck-box.bck-box-3 .bck-title {
