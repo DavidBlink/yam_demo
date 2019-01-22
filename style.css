@@ -63,7 +63,7 @@
 body {
     height: 100vh;
     font-size: 16px;
-    font-weight: 400;
+    font-weight: 500;
     
     
 }
@@ -810,7 +810,7 @@ body:not(.edit) .slider-indicators {
 .bck-title-7 {
     color: #EC008D;
     font-size: 5rem;
-    text-align: center;
+    text-align: left;
     font-weight: 800;
     text-shadow: 2px 2px 1px #B5B5B5;
     -webkit-text-stroke-width: 2px;
