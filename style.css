@@ -2,6 +2,42 @@
 
 /* Fonts */
 
+
+
+
+
+
+
+
+
+	@font-face {
+      font-family: Gotham;
+      src: url(fonts/Gotham-Bold.otf);
+    }
+
+    @font-face {
+      font-family: HurmeGeometricSans;
+      src: url(fonts/HurmeGeometricSans3-Bold.otf);
+    }
+
+    @font-face {
+      font-family: JacobyICG;
+      src: url(fonts/JacobyICG-Black.otf);
+    }
+
+    @font-face {
+      font-family: SantillanaDotFont;
+      src: url(fonts/SantillanaDotFont.otf);
+    }
+
+    @font-face {
+      font-family: SantillanaFillFont;
+      src: url(fonts/SantillanaFillFont.otf);
+    }
+
+
+
+
     @font-face {
       font-family: Arial;
       src: url(fonts/Arial.ttf);
@@ -64,6 +100,7 @@ body {
     height: 100vh;
     font-size: 16px;
     font-weight: 500;
+    font-family: HurmeGeometricSans;
     
     
 }
@@ -382,6 +419,7 @@ body.is_app #actividad .class_slide {
     width: -moz-fit-content;
     padding: 5px 50px 5px 115px;
     margin-left: -98px;
+    font-family: Gotham;
 }
 
 #actividad .content .header .title h3:after {
@@ -805,6 +843,7 @@ vertical-align: top;
     font-size: 3.2rem;
     text-align: center;
     font-weight: 700;
+    font-family: JacobyICG;
 }
 
 /*Título 2 - Verde*/
@@ -813,6 +852,7 @@ vertical-align: top;
     font-size: 3.2rem;
     text-align: center;
     font-weight: 700;
+    font-family: JacobyICG;
 }
 
 /*Título 3 - Amarillo*/
@@ -821,6 +861,7 @@ vertical-align: top;
     font-size: 3.2rem;
     text-align: center;
     font-weight: 700;
+    font-family: JacobyICG;
 }
 
 /*Título 4 - Azul*/
@@ -829,6 +870,7 @@ vertical-align: top;
     font-size: 3.2rem;
     text-align: center;
     font-weight: 700;
+    font-family: JacobyICG;
 }
 
 /*Título 7 - Titulo Story*/
@@ -892,7 +934,15 @@ vertical-align: top;
     color: #EE1C25;
 }
 
+/*fontInfantil*/
+.bck-enfasis-2 {
+	font-family: SantillanaFillFont;
+}
 
+/*fontInfantilPuntos*/
+.bck-enfasis-3 {
+	font-family: SantillanaDotFont; 
+}
 
 /*LISTAS DESORDENADAS*/
 
@@ -1034,6 +1084,7 @@ vertical-align: top;
     margin-left: 0px;
     margin-top: 10px;
     font-size: 2.2rem;
+    font-family: HurmeGeometricSans;
 }
 
 
@@ -1241,6 +1292,7 @@ vertical-align: top;
     font-size: 3.5rem;
     border-radius: 10px 10px 0px 0px;
     padding: 4px 4px 4px 4px;
+    font-family: JacobyICG;
 }
 
 .bck-box.bck-box-1 .bck-content {
