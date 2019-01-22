@@ -812,6 +812,8 @@ body:not(.edit) .slider-indicators {
     font-size: 4rem;
     text-align: center;
     font-weight: 800;
+    text-shadow: 2px 2px 1px #B5B5B5;
+    text-stroke-width: 2px;
     -webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: rgb(244,144,188); 
     -webkit-text-stroke-color: (top, rgba(244,144,188,1) 1%, rgba(251,210,227,1) 42%, rgba(221,221,221,1) 100%); 
