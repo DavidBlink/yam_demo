@@ -1103,6 +1103,7 @@ vertical-align: top;
     margin-left: -30px;
     margin-right: 0px;
     text-align: center;
+    font-family: JacobyICG;
     font-size: 2.4rem;
     font-weight: 700;
     line-height: 29px;
@@ -1147,6 +1148,7 @@ vertical-align: top;
     margin-left: -30px;
     margin-right: 0px;
     text-align: center;
+    line-height: 35px;
 }
 
 /*LISTA 3 - Circulo*/
