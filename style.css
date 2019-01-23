@@ -884,6 +884,25 @@ vertical-align: top;
     -webkit-text-stroke-color: rgb(244,144,188); 
     }
 
+ /*Título 8 - Titulo Quiz*/
+.bck-title-8 {
+    color: #EC008D;
+    font-size: 5rem;
+    text-align: left;
+    font-weight: 800;
+    }
+
+.bck-title-8:before {
+	content: "\f14a";
+    font-family: FontAwesome;
+    position: absolute;
+    color: #ef7d00;
+    padding: 2px;
+    background: #FFF;
+    margin-top: 2px;
+	border: 2px solid #ef7d00;
+}
+
 /*Título Relieve*/
 .bck-title-4 {
     color: #00ADEE;
