@@ -907,6 +907,7 @@ vertical-align: top;
     margin-left: 70px;
     font-variant: small-caps;
     text-shadow: 0 4px 1px #B8B8B8;
+    font-family: JacobyICG;
 }
 
 .bck-title-8:before {
@@ -923,7 +924,7 @@ vertical-align: top;
     z-index: 100;
 }
 
-/*Título Relieve*/
+/*Título Phonics*/
 .bck-title-4 {
     color: #00ADEE;
     font-size: 5rem;
