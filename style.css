@@ -1782,6 +1782,23 @@ vertical-align: top;
     margin-right: 3px;
 }
 
+/*icono HablarBlanco*/
+.icon-hablar3:before {
+    background-image: url(Images/icono-hablar-blanco.png);
+    content: "";
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    background-position: center center;
+    display: inline-block;
+    vertical-align: middle;
+    height: 30px;
+    width: 33px;
+    margin-right: 3px;
+}
+
 /*icono Lapiz*/
 .icon-lapiz:before {
     background-image: url(Images/icono-lapiz-yam.png);
