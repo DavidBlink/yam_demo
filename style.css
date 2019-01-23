@@ -682,6 +682,15 @@ vertical-align: top;
             border-radius: 0;
 }
 
+/*respuesta multiple*/
+#actividad .workspace.multiplechoice_horizontal .opcion {
+    display: inline-block;
+    margin: 10px;
+    padding: 0 5px;
+}
+
+
+
 /*Señalar respuesta - Respuesta en línea*/
 #actividad .workspace.chooseblanks .inline-answer a {
     display: inline-block;
