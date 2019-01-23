@@ -907,7 +907,6 @@ vertical-align: top;
     margin-left: 70px;
     font-variant: small-caps;
     text-shadow: 0 4px 1px #B8B8B8;
-    font-family: JacobyICG;
 }
 
 .bck-title-8:before {
@@ -930,6 +929,7 @@ vertical-align: top;
     font-size: 5rem;
     margin-left: 70px;
     font-weight: 700;
+    font-family: JacobyICG;
 }
 
 .bck-title-4:before {
