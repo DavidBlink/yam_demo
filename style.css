@@ -886,21 +886,27 @@ vertical-align: top;
 
  /*Título 8 - Titulo Quiz*/
 .bck-title-8 {
-    color: #EC008D;
+    color: #57575a;
     font-size: 5rem;
     text-align: left;
     font-weight: 800;
-    }
+    margin-left: 60px;
+    font-variant: small-caps;
+    text-shadow: 0 4px 1px #B8B8B8;
+}
 
 .bck-title-8:before {
-	content: "\f14a";
-    font-family: FontAwesome;
+	background-image: url(Images/before-quiz-yam.jpg);
+    content: '';
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 60px;
     position: absolute;
-    color: #ef7d00;
-    padding: 2px;
-    background: #FFF;
-    margin-top: 2px;
-	border: 2px solid #ef7d00;
+    width: 0px;
+    height: auto;
+    left: 0px;
+    top: 0px;
+    z-index: 100;
 }
 
 /*Título Relieve*/
