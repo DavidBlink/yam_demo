@@ -937,11 +937,13 @@ vertical-align: top;
 /*fontInfantil*/
 .bck-enfasis-2 {
 	font-family: SantillanaFillFont;
+	font-size: 4rem;
 }
 
 /*fontInfantilPuntos*/
 .bck-enfasis-3 {
-	font-family: SantillanaDotFont; 
+	font-family: SantillanaDotFont;
+	font-size: 4rem; 
 }
 
 /*LISTAS DESORDENADAS*/
