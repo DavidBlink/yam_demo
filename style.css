@@ -2,8 +2,7 @@
 
 /* Fonts */
 
-
-    @font-face {
+	@font-face {
       font-family: Gotham;
       src: url(fonts/Gotham-Bold.otf);
     }
@@ -21,9 +20,7 @@
     @font-face {
       font-family: HurmeGeometricSans-regular;
       src: url(fonts/HurmeGeometricSans3-Regular.otf);
-    }
-
-    
+    }    
 
     @font-face {
       font-family: JacobyICG;
