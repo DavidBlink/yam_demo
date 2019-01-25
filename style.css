@@ -536,7 +536,7 @@ body.is_app .yam_demo-navbar {
 }
 
 body.is_app .yam_demo-navbar.ocultar {
-    top: 0px;
+    top: -136px;
 }
 
 .yam_demo-navbar .navbar-content {
@@ -828,6 +828,10 @@ vertical-align: top;
     vertical-align: text-top;
     padding: 0px;
 }
+
+#actividad .player.audio, #actividad .player.video, #help-panel-content .player, #remote-alert-modal-rich .player {
+background-color: #00800000; 
+	}
 
 #actividad .content img.player, #actividad .player.audio, #actividad .player.video, #help-panel-content .player, #remote-alert-modal-rich .player:hover {
 -webkit-box-shadow: 2px 2px 2px undefinedpx #A8A3A2;
@@ -2468,6 +2472,14 @@ table,
     -webkit-box-shadow: rgba(0, 0, 0, 0) 0 3px 9px;
     -moz-box-shadow: rgba(0,0,0,0.298039) 0 3px 9px;
     box-shadow: rgba(0, 0, 0, 0) 0 3px 9px;
+}
+
+.bck-box.bck-box-1 .bck-content {
+    padding-left: 30px;
+    background-color: #FFF;
+    border: 8px solid #ED155B;
+    border-radius: 0px 0px 10px 10px;
+    padding: 8px 8px 8px 8px;
 }
 
 }
