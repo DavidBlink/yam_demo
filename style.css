@@ -2462,24 +2462,47 @@ table,
         bottom:0 ;
     }
 
-   
-
-}
-
-@media screen and (max-width: 1024px) {
-
-#actividad .carousel-inner .item-container {
+    #actividad .carousel-inner .item-container {
     -webkit-box-shadow: rgba(0, 0, 0, 0) 0 3px 9px;
     -moz-box-shadow: rgba(0,0,0,0.298039) 0 3px 9px;
     box-shadow: rgba(0, 0, 0, 0) 0 3px 9px;
 }
 
-.bck-box.bck-box-1 .bck-content {
+    .bck-box.bck-box-1 .bck-content {
     padding-left: 30px;
     background-color: #FFF;
     border: 8px solid #ED155B;
     border-radius: 0px 0px 10px 10px;
     padding: 8px 8px 8px 8px;
+}
+}
+
+@media only screen and (max-width: 1024px) and (min-width: 769px)  {
+    #actividad .player.audio, #actividad .player.video, #help-panel-content .player, #remote-alert-modal-rich .player {
+        display: inline-block;
+        background-image: url(Images/icono-audio-yam.png);
+        background-color: rgba(0, 128, 0, 0)!important;
+        background-repeat: no-repeat;
+        background-size: contain;
+        -webkit-border-radius: 100%;
+        -moz-border-radius: 100%;
+        border-radius: 100%;
+        margin: 0 5px;
+        vertical-align: sub;
+}
+
+#actividad .carousel-inner .item-container {
+        -webkit-box-shadow: rgba(0, 0, 0, 0) 0 3px 9px;
+        -moz-box-shadow: rgba(0,0,0,0.298039) 0 3px 9px;
+        box-shadow: rgba(0, 0, 0, 0) 0 3px 9px;
+}
+
+.bck-box.bck-box-1 .bck-content {
+        padding-left: 30px;
+        background-color: #FFF;
+        border: 8px solid #ED155B;
+        border-radius: 0px 0px 10px 10px;
+        padding: 8px 8px 8px 8px;
 }
 
 }
