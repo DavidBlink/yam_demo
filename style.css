@@ -2,7 +2,7 @@
 
 /* Fonts */
 
-	@font-face {
+    @font-face {
       font-family: Gotham;
       src: url(fonts/Gotham-Bold.otf);
     }
@@ -157,7 +157,7 @@ body {
 /*tamaño p*/
 
 .texto_curso p {
-	line-height: 1.43em!important;
+    line-height: 1.43em!important;
     margin-bottom: 20px;
     font-size: 2rem;
     font-weight: 500;
@@ -388,7 +388,7 @@ body.is_app #actividad .class_slide {
 }
 
 #actividad .slide_content_type_1 .pregunta .texto_curso {
-	font-size: 2.1rem;
+    font-size: 2.1rem;
 }
 
 .slide_content_type_29 .paint .main-canvas {
@@ -744,7 +744,7 @@ vertical-align: top;
 }
 
 #actividad .workspace.matching .opcion:hover {
-	background: #e0f7ff9e;
+    background: #e0f7ff9e;
 }
 /**/
 /*Classify activities*/
@@ -831,7 +831,7 @@ vertical-align: top;
 
 #actividad .player.audio, #actividad .player.video, #help-panel-content .player, #remote-alert-modal-rich .player {
 background-color: #00800000; 
-	}
+    }
 
 #actividad .content img.player, #actividad .player.audio, #actividad .player.video, #help-panel-content .player, #remote-alert-modal-rich .player:hover {
 -webkit-box-shadow: 2px 2px 2px undefinedpx #A8A3A2;
@@ -978,14 +978,14 @@ background-color: #00800000;
 
 /*fontInfantil*/
 .bck-enfasis-2 {
-	font-family: SantillanaFillFont;
-	font-size: 4rem;
+    font-family: SantillanaFillFont;
+    font-size: 4rem;
 }
 
 /*fontInfantilPuntos*/
 .bck-enfasis-3 {
-	font-family: SantillanaDotFont;
-	font-size: 4rem; 
+    font-family: SantillanaDotFont;
+    font-size: 4rem; 
 }
 
 /*LISTAS DESORDENADAS*/
@@ -2431,6 +2431,19 @@ table,
 
 
 @media screen and (max-width: 768px) {
+
+        #actividad .player.audio, #actividad .player.video, #help-panel-content .player, #remote-alert-modal-rich .player {
+        display: inline-block;
+        background-image: url(Images/icono-audio-yam.png);
+        background-color: rgba(0, 128, 0, 0)!important;
+        background-repeat: no-repeat;
+        background-size: contain;
+        -webkit-border-radius: 100%;
+        -moz-border-radius: 100%;
+        border-radius: 100%;
+        margin: 0 5px;
+        vertical-align: sub;
+    }
 
     #actividad .carousel-inner .class_slide {
         padding: 40px 20px 0px;
