@@ -1882,6 +1882,25 @@ background-color: #00800000;
     margin-right: 3px;
 }
 
+/*icono Libro*/
+.icon-libro:before {
+    background-image: url(Images/icono-libro-yam.png);
+    content: "";
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    background-position: center center;
+    display: inline-block;
+    vertical-align: middle;
+    height: 30px;
+    width: 33px;
+    margin-right: 3px;
+}
+
+
+
 /*icono Musica*/
 .icon-musica:before {
     background-image: url(Images/icono-musica-yam.png);
