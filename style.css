@@ -2552,18 +2552,18 @@ table,
 }
 
 /*Lista LetraMinus*/
-#actividad .content .cke_contents .bck-ol-4 li:before,
-#actividad .content .texto_curso ol.bck-ol-4 li:before,
-#actividad .popover-content ol.bck-ol-4 li:before,
-#actividad .content .workspace ul li ol.bck-ol-4 li:before {
+.activitytag_rosa_yam #actividad .content .cke_contents .bck-ol-4 li:before,
+.activitytag_rosa_yam #actividad .content .texto_curso ol.bck-ol-4 li:before,
+.activitytag_rosa_yam #actividad .popover-content ol.bck-ol-4 li:before,
+.activitytag_rosa_yam #actividad .content .workspace ul li ol.bck-ol-4 li:before {
     color: #ba007c;
 }
 
 
 /*Lista desordenada 3*/
-#actividad .content .texto_curso .bck-ul-3 li:before,
-#actividad .content .workspace ul li .bck-ul-3 li:before ,
-#actividad .popover-background.shown .popover-content > ul > li:before{
+.activitytag_rosa_yam #actividad .content .texto_curso .bck-ul-3 li:before,
+.activitytag_rosa_yam #actividad .content .workspace ul li .bck-ul-3 li:before ,
+.activitytag_rosa_yam #actividad .popover-background.shown .popover-content > ul > li:before{
     background-color: #ba007c;
 }
 
@@ -2608,18 +2608,18 @@ table,
 }
 
 /*Lista LetraMinus*/
-#actividad .content .cke_contents .bck-ol-4 li:before,
-#actividad .content .texto_curso ol.bck-ol-4 li:before,
-#actividad .popover-content ol.bck-ol-4 li:before,
-#actividad .content .workspace ul li ol.bck-ol-4 li:before {
+.activitytag_amarillo_yam #actividad .content .cke_contents .bck-ol-4 li:before,
+.activitytag_amarillo_yam #actividad .content .texto_curso ol.bck-ol-4 li:before,
+.activitytag_amarillo_yam #actividad .popover-content ol.bck-ol-4 li:before,
+.activitytag_amarillo_yam #actividad .content .workspace ul li ol.bck-ol-4 li:before {
     color: #e9bb00;
 }
 
 
 /*Lista desordenada 3*/
-#actividad .content .texto_curso .bck-ul-3 li:before,
-#actividad .content .workspace ul li .bck-ul-3 li:before ,
-#actividad .popover-background.shown .popover-content > ul > li:before{
+.activitytag_amarillo_yam #actividad .content .texto_curso .bck-ul-3 li:before,
+.activitytag_amarillo_yam #actividad .content .workspace ul li .bck-ul-3 li:before ,
+.activitytag_amarillo_yam #actividad .popover-background.shown .popover-content > ul > li:before{
     background-color: #e9bb00;
 }
 
@@ -2665,18 +2665,18 @@ table,
 }
 
 /*Lista LetraMinus*/
-#actividad .content .cke_contents .bck-ol-4 li:before,
-#actividad .content .texto_curso ol.bck-ol-4 li:before,
-#actividad .popover-content ol.bck-ol-4 li:before,
-#actividad .content .workspace ul li ol.bck-ol-4 li:before {
+.activitytag_verdeclaro_yam #actividad .content .cke_contents .bck-ol-4 li:before,
+.activitytag_verdeclaro_yam #actividad .content .texto_curso ol.bck-ol-4 li:before,
+.activitytag_verdeclaro_yam #actividad .popover-content ol.bck-ol-4 li:before,
+.activitytag_verdeclaro_yam #actividad .content .workspace ul li ol.bck-ol-4 li:before {
     color: #b6c72c;
 }
 
 
 /*Lista desordenada 3*/
-#actividad .content .texto_curso .bck-ul-3 li:before,
-#actividad .content .workspace ul li .bck-ul-3 li:before ,
-#actividad .popover-background.shown .popover-content > ul > li:before{
+.activitytag_verdeclaro_yam #actividad .content .texto_curso .bck-ul-3 li:before,
+.activitytag_verdeclaro_yam #actividad .content .workspace ul li .bck-ul-3 li:before ,
+.activitytag_verdeclaro_yam #actividad .popover-background.shown .popover-content > ul > li:before{
     background-color: #b6c72c;
 }
 
@@ -2722,18 +2722,18 @@ table,
 }
 
 /*Lista LetraMinus*/
-#actividad .content .cke_contents .bck-ol-4 li:before,
-#actividad .content .texto_curso ol.bck-ol-4 li:before,
-#actividad .popover-content ol.bck-ol-4 li:before,
-#actividad .content .workspace ul li ol.bck-ol-4 li:before {
+.activitytag_azuloscuro_yam #actividad .content .cke_contents .bck-ol-4 li:before,
+.activitytag_azuloscuro_yam #actividad .content .texto_curso ol.bck-ol-4 li:before,
+.activitytag_azuloscuro_yam #actividad .popover-content ol.bck-ol-4 li:before,
+.activitytag_azuloscuro_yam #actividad .content .workspace ul li ol.bck-ol-4 li:before {
     color: #005ca4;
 }
 
 
 /*Lista desordenada 3*/
-#actividad .content .texto_curso .bck-ul-3 li:before,
-#actividad .content .workspace ul li .bck-ul-3 li:before ,
-#actividad .popover-background.shown .popover-content > ul > li:before{
+.activitytag_azuloscuro_yam #actividad .content .texto_curso .bck-ul-3 li:before,
+.activitytag_azuloscuro_yam #actividad .content .workspace ul li .bck-ul-3 li:before ,
+.activitytag_azuloscuro_yam #actividad .popover-background.shown .popover-content > ul > li:before{
     background-color: #005ca4;
 }
 
@@ -2777,18 +2777,18 @@ table,
 }
 
 /*Lista LetraMinus*/
-#actividad .content .cke_contents .bck-ol-4 li:before,
-#actividad .content .texto_curso ol.bck-ol-4 li:before,
-#actividad .popover-content ol.bck-ol-4 li:before,
-#actividad .content .workspace ul li ol.bck-ol-4 li:before {
+.activitytag_morado_yam #actividad .content .cke_contents .bck-ol-4 li:before,
+.activitytag_morado_yam #actividad .content .texto_curso ol.bck-ol-4 li:before,
+.activitytag_morado_yam #actividad .popover-content ol.bck-ol-4 li:before,
+.activitytag_morado_yam #actividad .content .workspace ul li ol.bck-ol-4 li:before {
     color: #66127d;
 }
 
 
 /*Lista desordenada 3*/
-#actividad .content .texto_curso .bck-ul-3 li:before,
-#actividad .content .workspace ul li .bck-ul-3 li:before ,
-#actividad .popover-background.shown .popover-content > ul > li:before{
+.activitytag_morado_yam #actividad .content .texto_curso .bck-ul-3 li:before,
+.activitytag_morado_yam #actividad .content .workspace ul li .bck-ul-3 li:before ,
+.activitytag_morado_yam #actividad .popover-background.shown .popover-content > ul > li:before{
     background-color: #66127d;
 }
 
@@ -2832,18 +2832,18 @@ table,
 }
 
 /*Lista LetraMinus*/
-#actividad .content .cke_contents .bck-ol-4 li:before,
-#actividad .content .texto_curso ol.bck-ol-4 li:before,
-#actividad .popover-content ol.bck-ol-4 li:before,
-#actividad .content .workspace ul li ol.bck-ol-4 li:before {
+.activitytag_naranja_yam #actividad .content .cke_contents .bck-ol-4 li:before,
+.activitytag_naranja_yam #actividad .content .texto_curso ol.bck-ol-4 li:before,
+.activitytag_naranja_yam #actividad .popover-content ol.bck-ol-4 li:before,
+.activitytag_naranja_yam #actividad .content .workspace ul li ol.bck-ol-4 li:before {
     color: #db9600;
 }
 
 
 /*Lista desordenada 3*/
-#actividad .content .texto_curso .bck-ul-3 li:before,
-#actividad .content .workspace ul li .bck-ul-3 li:before ,
-#actividad .popover-background.shown .popover-content > ul > li:before{
+.activitytag_naranja_yam #actividad .content .texto_curso .bck-ul-3 li:before,
+.activitytag_naranja_yam #actividad .content .workspace ul li .bck-ul-3 li:before ,
+.activitytag_naranja_yam #actividad .popover-background.shown .popover-content > ul > li:before{
     background-color: #db9600;
 }
 
@@ -2887,18 +2887,18 @@ table,
 }
 
 /*Lista LetraMinus*/
-#actividad .content .cke_contents .bck-ol-4 li:before,
-#actividad .content .texto_curso ol.bck-ol-4 li:before,
-#actividad .popover-content ol.bck-ol-4 li:before,
-#actividad .content .workspace ul li ol.bck-ol-4 li:before {
+.activitytag_verde_yam #actividad .content .cke_contents .bck-ol-4 li:before,
+.activitytag_verde_yam #actividad .content .texto_curso ol.bck-ol-4 li:before,
+.activitytag_verde_yam #actividad .popover-content ol.bck-ol-4 li:before,
+.activitytag_verde_yam #actividad .content .workspace ul li ol.bck-ol-4 li:before {
     color: #71a93c;
 }
 
 
 /*Lista desordenada 3*/
-#actividad .content .texto_curso .bck-ul-3 li:before,
-#actividad .content .workspace ul li .bck-ul-3 li:before ,
-#actividad .popover-background.shown .popover-content > ul > li:before{
+.activitytag_verde_yam #actividad .content .texto_curso .bck-ul-3 li:before,
+.activitytag_verde_yam #actividad .content .workspace ul li .bck-ul-3 li:before ,
+.activitytag_verde_yam #actividad .popover-background.shown .popover-content > ul > li:before{
     background-color: #71a93c;
 }
 
