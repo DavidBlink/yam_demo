@@ -61,6 +61,7 @@
 				{ name: 'Icono Hablar2', element: 'span', attributes: { 'class': 'icon icon-hablar2' } },
 				{ name: 'Icono HablarBlanco', element: 'span', attributes: { 'class': 'icon icon-hablar3' } },
 				{ name: 'Icono Lapiz', element: 'span', attributes: { 'class': 'icon icon-lapiz' } },
+				{ name: 'Icono Libro', element: 'span', attributes: { 'class': 'icon icon-libro' } },
 				{ name: 'Icono Musica', element: 'span', attributes: { 'class': 'icon icon-musica' } },
 				{ name: 'Icono MusicaMorado1', element: 'span', attributes: { 'class': 'icon icon-musica1' } },
 				{ name: 'Icono MusicaMorado2', element: 'span', attributes: { 'class': 'icon icon-musica2' } },
