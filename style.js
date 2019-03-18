@@ -31,6 +31,7 @@
 				{ name: 'FontInfantilPuntos', element: 'span', attributes: { 'class': 'bck-enfasis-3'} },
 				
 				
+				{ name: 'Lista Desordenada', element: 'ul', attributes: { 'class': 'bck-ul-3'} },
 				{ name: 'Lista TrianguloNaranja', element: 'ul', attributes: { 'class': 'bck-ul-1'} },
 				{ name: 'Lista DesNaranja', element: 'ul', attributes: { 'class': 'bck-ul-2'} },
 							
