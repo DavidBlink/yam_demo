@@ -691,6 +691,9 @@ vertical-align: top;
     padding: 0 5px;
 }
 
+.slide_main .multiple-solution-marker {
+    display: none;
+}
 
 
 /*Señalar respuesta - Respuesta en línea*/
