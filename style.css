@@ -1030,7 +1030,6 @@ background-color: #00800000;
 #actividad .content .texto_curso .bck-ul-3 li,
 #actividad .content .workspace ul li .bck-ul-3 li ,
 #actividad .popover-background.shown .popover-content > ul > li {
-    color: #fff;
     font-size: 2rem;
     font-weight: 100;
 }
@@ -1039,8 +1038,8 @@ background-color: #00800000;
 #actividad .content .workspace ul li .bck-ul-3 li:before ,
 #actividad .popover-background.shown .popover-content > ul > li:before{
     content: "";
-    height: 7px;
-    width: 7px;
+    height: 6px;
+    width: 6px;
     background-color: #333;
     position: absolute;
     top: -1px;
