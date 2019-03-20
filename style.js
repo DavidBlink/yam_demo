@@ -14,7 +14,7 @@
 			name: 'yam_demo',
 			styles: [
 				{ name: 'Título Intro', element: 'h2', attributes: { 'class': 'bck-title-intro'} },
-				{ name: 'Título 1-Rojo', element: 'h2', attributes: { 'class': 'bck-title-1'} },
+				{ name: 'Título 1', element: 'h2', attributes: { 'class': 'bck-title-1'} },
 				{ name: 'Título 2-Verde', element: 'h2', attributes: { 'class': 'bck-title-2'} },
 				{ name: 'Título 3-Amarillo', element: 'h2', attributes: { 'class': 'bck-title-3'} },
 				{ name: 'Título 4-Azul', element: 'h2', attributes: { 'class': 'bck-title-6'} },
