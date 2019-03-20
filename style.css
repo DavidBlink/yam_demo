@@ -2576,6 +2576,37 @@ table,
     border: 2px solid #ba007c;
 }
 
+.activitytag_rosa_yam .bck-title-1 {
+    color: #ba007c;
+}
+
+/*Dropdown 1*/
+
+.activitytag_rosa_yam .bck-dropdown.bck-dropdown-1 {
+    background-color: #ba007c;
+}
+
+
+.activitytag_rosa_yam .bck-dropdown-1 .bck-dropdown-icon {
+    background-color: #ba007c;
+}
+
+.activitytag_rosa_yam .bck-table-2 {
+    border: 1px solid #ba007c;
+}
+
+.activitytag_rosa_yam .bck-table-2 td {
+    border: 1px solid #ba007c;
+}
+
+/*celda rosa*/
+.activitytag_rosa_yam .bck-td-2 {
+    color: #ffffff;
+    background: #ba007c;
+    text-align: center;
+}
+
+
 /*----------------------------AMARILLO---------------------*/
 
 /*Elementos Unit 3 - Amarillo*/
@@ -2631,6 +2662,35 @@ table,
     border: 2px solid #e9bb00;
 }
 
+.activitytag_amarillo_yam .bck-title-1 {
+    color: #e9bb00;
+}
+
+/*Dropdown 1*/
+
+.activitytag_amarillo_yam .bck-dropdown.bck-dropdown-1 {
+    background-color: #e9bb00;
+}
+
+
+.activitytag_amarillo_yam .bck-dropdown-1 .bck-dropdown-icon {
+    background-color: #e9bb00;
+}
+
+.activitytag_amarillo_yam .bck-table-2 {
+    border: 1px solid #e9bb00;
+}
+
+.activitytag_amarillo_yam .bck-table-2 td {
+    border: 1px solid #e9bb00;
+}
+
+/*celda amarillo*/
+.activitytag_amarillo_yam .bck-td-2 {
+    color: #ffffff;
+    background: #e9bb00;
+    text-align: center;
+}
 
 /*----------------------------VERDE CLARO---------------------*/
 
@@ -2689,6 +2749,36 @@ table,
     border: 2px solid #b6c72c;
 }
 
+.activitytag_verdeclaro_yam .bck-title-1 {
+    color: #b6c72c;
+}
+
+/*Dropdown 1*/
+
+.activitytag_verdeclaro_yam .bck-dropdown.bck-dropdown-1 {
+    background-color: #b6c72c;
+}
+
+
+.activitytag_verdeclaro_yam .bck-dropdown-1 .bck-dropdown-icon {
+    background-color: #b6c72c;
+}
+
+.activitytag_verdeclaro_yam .bck-table-2 {
+    border: 1px solid #b6c72c;
+}
+
+.activitytag_verdeclaro_yam .bck-table-2 td {
+    border: 1px solid #b6c72c;
+}
+
+/*celda verdeclaro*/
+.activitytag_verdeclaro_yam .bck-td-2 {
+    color: #ffffff;
+    background: #b6c72c;
+    text-align: center;
+}
+
 
 /*----------------------------AZUL OSCURO---------------------*/
 
@@ -2743,6 +2833,36 @@ table,
 /*Caja borde color*/
 .activitytag_azuloscuro_yam .bck-box.bck-box-4 {
     border: 2px solid #005ca4;
+}
+
+.activitytag_azuloscuro_yam .bck-title-1 {
+    color: #005ca4;
+}
+
+/*Dropdown 1*/
+
+.activitytag_azuloscuro_yam .bck-dropdown.bck-dropdown-1 {
+    background-color: #005ca4;
+}
+
+
+.activitytag_azuloscuro_yam .bck-dropdown-1 .bck-dropdown-icon {
+    background-color: #005ca4;
+}
+
+.activitytag_azuloscuro_yam .bck-table-2 {
+    border: 1px solid #005ca4;
+}
+
+.activitytag_azuloscuro_yam .bck-table-2 td {
+    border: 1px solid #005ca4;
+}
+
+/*celda azuloscuro*/
+.activitytag_azuloscuro_yam .bck-td-2 {
+    color: #ffffff;
+    background: #005ca4;
+    text-align: center;
 }
 
 /*----------------------------MORADO---------------------*/
@@ -2800,6 +2920,36 @@ table,
     border: 2px solid #66127d;
 }
 
+.activitytag_morado_yam .bck-title-1 {
+    color: #66127d;
+}
+
+/*Dropdown 1*/
+
+.activitytag_morado_yam .bck-dropdown.bck-dropdown-1 {
+    background-color: #66127d;
+}
+
+
+.activitytag_morado_yam .bck-dropdown-1 .bck-dropdown-icon {
+    background-color: #66127d;
+}
+
+.activitytag_morado_yam .bck-table-2 {
+    border: 1px solid #66127d;
+}
+
+.activitytag_morado_yam .bck-table-2 td {
+    border: 1px solid #66127d;
+}
+
+/*celda morado*/
+.activitytag_morado_yam .bck-td-2 {
+    color: #ffffff;
+    background: #66127d;
+    text-align: center;
+}
+
 /*----------------------------NARANJA---------------------*/
 
 /*Elementos Unit 7 - Naranja*/
@@ -2853,6 +3003,36 @@ table,
 /*Caja borde color*/
 .activitytag_naranja_yam .bck-box.bck-box-4 {
     border: 2px solid #db9600;
+}
+
+.activitytag_naranja_yam .bck-title-1 {
+    color: #db9600;
+}
+
+/*Dropdown 1*/
+
+.activitytag_naranja_yam .bck-dropdown.bck-dropdown-1 {
+    background-color: #db9600;
+}
+
+
+.activitytag_naranja_yam .bck-dropdown-1 .bck-dropdown-icon {
+    background-color: #db9600;
+}
+
+.activitytag_naranja_yam .bck-table-2 {
+    border: 1px solid #db9600;
+}
+
+.activitytag_naranja_yam .bck-table-2 td {
+    border: 1px solid #db9600;
+}
+
+/*celda naranja*/
+.activitytag_naranja_yam .bck-td-2 {
+    color: #ffffff;
+    background: #db9600;
+    text-align: center;
 }
 
 /*----------------------------VERDE---------------------*/
@@ -2910,8 +3090,35 @@ table,
     border: 2px solid #71a93c;
 }
 
+.activitytag_verde_yam .bck-title-1 {
+    color: #71a93c;
+}
+
+/*Dropdown 1*/
+
+.activitytag_verde_yam .bck-dropdown.bck-dropdown-1 {
+    background-color: #71a93c;
+}
 
 
+.activitytag_verde_yam .bck-dropdown-1 .bck-dropdown-icon {
+    background-color: #71a93c;
+}
+
+.activitytag_verde_yam .bck-table-2 {
+    border: 1px solid #71a93c;
+}
+
+.activitytag_verde_yam .bck-table-2 td {
+    border: 1px solid #71a93c;
+}
+
+/*celda naranja*/
+.activitytag_verde_yam .bck-td-2 {
+    color: #ffffff;
+    background: #71a93c;
+    text-align: center;
+}
 
 /****/
 
