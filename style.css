@@ -2332,7 +2332,7 @@ table,
 /*Dropdown 1*/
 
 .bck-dropdown.bck-dropdown-1 {
-    background-color: #bf0811;
+    background-color: #00adee;
     border: 1px solid #DDDDDD;
     margin-top: 10px;
     -webkit-border-radius: 5px;
@@ -2346,7 +2346,7 @@ table,
 }
 
 .bck-dropdown-1 .bck-dropdown-icon {
-    background-color: #bf0811;
+    background-color: #00adee;
     width: 25px;
     height: 10px;
 }
@@ -2610,6 +2610,12 @@ table,
     border: 3px solid #ba007c;
 }
 
+.activitytag_rosa_yam .bck-title-4 {
+    color: #ba007c;
+}
+
+
+
 /*----------------------------AMARILLO---------------------*/
 
 /*Elementos Unit 3 - Amarillo*/
@@ -2698,6 +2704,12 @@ table,
 .activitytag_amarillo_yam .fillblanks-draggable-wrapper .response {
     border: 3px solid #e9bb00;
 }
+
+.activitytag_amarillo_yam .bck-title-4 {
+    color: #e9bb00;
+}
+
+
 
 /*----------------------------VERDE CLARO---------------------*/
 
@@ -2790,6 +2802,12 @@ table,
     border: 3px solid #b6c72c;
 }
 
+.activitytag_verdeclaro_yam .bck-title-4 {
+    color: #b6c72c;
+}
+
+
+
 /*----------------------------AZUL OSCURO---------------------*/
 
 /*Elementos Unit 5 - Azul Oscuro*/
@@ -2879,6 +2897,11 @@ table,
     border: 3px solid #005ca4;
 }
 
+.activitytag_azuloscuro_yam .bck-title-4 {
+    color: #005ca4;
+}
+
+
 /*----------------------------MORADO---------------------*/
 
 /*Elementos Unit 6 - Morado*/
@@ -2966,6 +2989,10 @@ table,
 
 .activitytag_morado_yam .fillblanks-draggable-wrapper .response {
     border: 3px solid #66127d;
+}
+
+.activitytag_morado_yam .bck-title-4 {
+    color: #66127d;
 }
 
 /*----------------------------NARANJA---------------------*/
@@ -3057,6 +3084,10 @@ table,
     border: 3px solid #db9600;
 }
 
+.activitytag_naranja_yam .bck-title-4 {
+    color: #db9600;
+}
+
 /*----------------------------VERDE---------------------*/
 
 /*Elementos Unit 8 - Verde*/
@@ -3144,6 +3175,10 @@ table,
 
 .activitytag_verde_yam .fillblanks-draggable-wrapper .response {
     border: 3px solid #71a93c;
+}
+
+.activitytag_verde_yam .bck-title-4 {
+    color: #71a93c;
 }
 
 /****/
