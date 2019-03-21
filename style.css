@@ -414,7 +414,7 @@ body.is_app #actividad .class_slide {
 
 #actividad .content .header .title h3 {
     color: #FFF;
-    font-size: 3rem;
+    font-size: 2.5rem;
     font-weight: 600;
     background-color: #00ADEE;
     width: fit-content;
@@ -429,11 +429,11 @@ body.is_app #actividad .class_slide {
     content: '';
     background-size: contain;
     background-repeat: no-repeat;
-    padding: 30px;
+    padding: 27px;
     position: absolute;
     width: 0px;
     height: auto;
-    margin-left: 12.5px;
+    margin-left: 18.5px;
     top: 41.5px;
 }
 
@@ -3223,6 +3223,19 @@ table,
 
 
 @media screen and (max-width: 768px) {
+
+        #actividad .content .header .title h3:after {
+        background-image: url(Images/triangulo-blanco2.png);
+        content: '';
+        background-size: contain;
+        background-repeat: no-repeat;
+        padding: 22px;
+        position: absolute;
+        width: 0px;
+        height: auto;
+        margin-left: 21.5px;
+        top: 65.5px;
+}
 
         #actividad .player.audio, #actividad .player.video, #help-panel-content .player, #remote-alert-modal-rich .player {
         display: inline-block;
