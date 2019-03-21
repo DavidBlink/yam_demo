@@ -3219,6 +3219,12 @@ table,
     -moz-box-shadow: rgba(0,0,0,0.298039) 0 3px 9px;
     box-shadow: rgba(0, 0, 0, 0) 0 3px 9px;
 }
+
+#actividad .content .header .title h3:after {
+    display: none;
+}
+
+
 }
 
 
