@@ -2504,6 +2504,11 @@ table,
     padding: 20px 0;
 }
 
+.slide_main input:focus {
+    border-color: #11b2ef;
+}
+
+
 /*-----------------------------------TAGS--------------------------*/
 
 /*  Unit 1 - Azul (por defecto) || unittag_azul_yam
@@ -2614,7 +2619,9 @@ table,
     color: #ba007c;
 }
 
-
+.activitytag_rosa_yam .slide_main input:focus {
+    border-color: #ba007c;
+}
 
 /*----------------------------AMARILLO---------------------*/
 
@@ -2709,7 +2716,9 @@ table,
     color: #e9bb00;
 }
 
-
+.activitytag_amarillo_yam .slide_main input:focus {
+    border-color: #e9bb00;
+}
 
 /*----------------------------VERDE CLARO---------------------*/
 
@@ -2806,7 +2815,9 @@ table,
     color: #b6c72c;
 }
 
-
+.activitytag_verdeclaro_yam .slide_main input:focus {
+    border-color: #b6c72c;
+}
 
 /*----------------------------AZUL OSCURO---------------------*/
 
@@ -2901,6 +2912,9 @@ table,
     color: #005ca4;
 }
 
+.activitytag_azuloscuro_yam .slide_main input:focus {
+    border-color: #005ca4;
+}
 
 /*----------------------------MORADO---------------------*/
 
@@ -2995,6 +3009,11 @@ table,
     color: #66127d;
 }
 
+.activitytag_morado_yam .slide_main input:focus {
+    border-color: #66127d;
+}
+
+
 /*----------------------------NARANJA---------------------*/
 
 /*Elementos Unit 7 - Naranja*/
@@ -3088,6 +3107,11 @@ table,
     color: #db9600;
 }
 
+.activitytag_naranja_yam .slide_main input:focus {
+    border-color: #db9600;
+}
+
+
 /*----------------------------VERDE---------------------*/
 
 /*Elementos Unit 8 - Verde*/
@@ -3179,6 +3203,10 @@ table,
 
 .activitytag_verde_yam .bck-title-4 {
     color: #71a93c;
+}
+
+.activitytag_verde_yam .slide_main input:focus {
+    border-color: #71a93c;
 }
 
 /****/
