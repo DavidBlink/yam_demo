@@ -3,6 +3,11 @@
 /* Fonts */
 
     @font-face {
+      font-family: AndyStd;
+      src: url(fonts/AndyStd-Regular.otf);
+    }
+
+    @font-face {
       font-family: Gotham;
       src: url(fonts/Gotham-Bold.otf);
     }
