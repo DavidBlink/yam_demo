@@ -439,7 +439,7 @@ body.is_app #actividad .class_slide {
     width: 0px;
     height: auto;
     margin-left: 18.5px;
-    top: 41.5px;
+    top: 41.5px !important;
 }
 
 .slide_main input {
