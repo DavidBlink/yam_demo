@@ -445,6 +445,7 @@ body.is_app #actividad .class_slide {
 .slide_main input {
     color: #555;
     background-color: #fff;
+    max-width: 98%;
     background-image: none;
     border: 1px solid #ccc;
     -webkit-border-radius: 4px;
