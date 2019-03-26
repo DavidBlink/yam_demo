@@ -132,7 +132,7 @@ body {
 }
 
 .slide-wrapper {
-    text-align: justify;
+    text-align: left;
 }
 
 
@@ -689,6 +689,13 @@ vertical-align: top;
        -moz-border-radius: 0;
             border-radius: 0;
 }
+
+/*Alinear texto drag and drop*/
+#actividad .drag .circulo_gris p {
+    text-align: left;
+}
+
+
 
 /*respuesta multiple*/
 #actividad .workspace.multiplechoice_horizontal .opcion {
