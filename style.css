@@ -1026,6 +1026,11 @@ background-color: #00800000;
     color: #656060;
 }
 
+/*Line Height Listas*/
+.texto_curso li {
+    line-height: 1.8em!important;
+}
+
 /*LISTAS DESORDENADAS*/
 
 .texto_curso ul li {
