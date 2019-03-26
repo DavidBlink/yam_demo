@@ -700,6 +700,11 @@ vertical-align: top;
     display: none;
 }
 
+/*crucigrama*/
+.slide.crosswords-puzzle .enunciado {
+    font-size: 2rem;
+    line-height: 2.5rem;
+}
 
 /*Señalar respuesta - Respuesta en línea*/
 #actividad .workspace.chooseblanks .inline-answer a {
