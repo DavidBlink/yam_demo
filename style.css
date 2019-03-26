@@ -706,6 +706,15 @@ vertical-align: top;
     line-height: 2.5rem;
 }
 
+.fillblanks-draggable-wrapper .response p {
+    position: relative;
+    margin: 0;
+    text-align: center;
+    padding: 5px 10px;
+    font-size: 1.8rem;
+}
+
+
 /*Señalar respuesta - Respuesta en línea*/
 #actividad .workspace.chooseblanks .inline-answer a {
     display: inline-block;
