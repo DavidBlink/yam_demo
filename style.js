@@ -8,7 +8,7 @@
 
 	yam_demoStyle.prototype = {
 		bodyClassName: 'content_type_clase_yam_demo',
-		toolbar: { name: 'editorial', items: ['Blink_popover'] },
+		toolbar: { name: 'editorial' },
 		extraPlugins: ['blink_popover'],
 		ckEditorStyles: {
 			name: 'yam_demo',
