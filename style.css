@@ -1214,7 +1214,8 @@ background-color: #00800000;
     font-family: HouseHolidayTTF;
     font-size: 4rem;
     font-weight: 500;
-    line-height: 25px;
+    line-height: normal;
+    top: -1px;
 }
 
 /*LISTA 2*/
