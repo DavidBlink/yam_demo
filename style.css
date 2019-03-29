@@ -498,7 +498,7 @@ fieldset[disabled] .slide_main input {
 }
 
 .texto_curso li input {
-    height: 1.8em;
+    height: 1.8em !important;
 }
 
 
