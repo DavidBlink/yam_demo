@@ -461,6 +461,7 @@ body.is_app #actividad .class_slide {
        -moz-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s, -moz-box-shadow ease-in-out .15s;
             transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
             transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s, -webkit-box-shadow ease-in-out .15s, -moz-box-shadow ease-in-out .15s;
+            height: 1,43
 }
 
 .slide_main input:focus,
@@ -495,6 +496,11 @@ fieldset[disabled] .slide_main input {
     border-color: #00BDFF;
     background: #B6ECFF;
 }
+
+.texto_curso li input {
+    height: 1.8em;
+}
+
 
 /* NAVBAR (Breadcums) */
 #top-navigator {
