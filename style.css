@@ -1572,8 +1572,9 @@ background-color: #00800000;
 /*CAJA5- CajaInicioUnidad*/
 
 .bck-box.bck-box-5 {
-    margin-top: 0px;
+    margin-top: -227px;
     border: 0px;
+    position: absolute;
 }
 
 .bck-box-5 .bck-title {
