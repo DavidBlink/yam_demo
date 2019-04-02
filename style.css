@@ -499,6 +499,7 @@ fieldset[disabled] .slide_main input {
 
 .texto_curso li input {
     height: 1.8em !important;
+    margin-bottom: 5px;
 }
 
 .keyboardInput {
