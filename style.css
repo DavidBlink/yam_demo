@@ -3320,8 +3320,12 @@ table,
         top: 65.5px;
 }
         /*seccion inicio de unidad*/
+        #actividad .content .iniciounidad .header .title h3 {
+        margin-top: 104px;
+        }
+
         #actividad .content .iniciounidad .header .title h3:after {
-            margin-top: 144px;
+            margin-top: 99px;
         }
 
         #actividad .player.audio, #actividad .player.video, #help-panel-content .player, #remote-alert-modal-rich .player {
