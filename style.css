@@ -1586,6 +1586,14 @@ background-color: #00800000;
 }
 
 /*seccion título inicio unidad margin-top*/
+#actividad .content .iniciounidad .header .title h3 {
+    margin-top: 150px;
+}
+
+#actividad .content .iniciounidad .header .title h3:after {
+       margin-top: 120px;
+}
+
 
 
 /*CAJA POP-UP*/
@@ -3311,6 +3319,10 @@ table,
         margin-left: 21.5px;
         top: 65.5px;
 }
+        /*seccion inicio de unidad*/
+        #actividad .content .iniciounidad .header .title h3:after {
+            margin-top: 144px;
+        }
 
         #actividad .player.audio, #actividad .player.video, #help-panel-content .player, #remote-alert-modal-rich .player {
         display: inline-block;
