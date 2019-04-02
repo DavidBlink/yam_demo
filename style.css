@@ -1487,7 +1487,7 @@ background-color: #00800000;
 
 
 
-/*CAJA3 CajaEsquinaVerde*/
+/*CAJA3 Video*/
 
 .bck-box.bck-box-3 {
     margin-top: 20px;
@@ -1569,8 +1569,23 @@ background-color: #00800000;
     padding: 8px 15px 8px 8px;
 }
 
+/*CAJA5- CajaInicioUnidad*/
 
+.bck-box.bck-box-5 {
+    margin-top: 0px;
+    border: 0px;
+}
 
+.bck-box-5 .bck-title {
+    
+}
+
+.bck-box.bck-box-5 .bck-content {
+    background-color: #FFF;
+    padding: 0px;
+}
+
+/*seccion título inicio unidad margin-top*/
 
 
 /*CAJA POP-UP*/
