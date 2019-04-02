@@ -713,6 +713,10 @@ vertical-align: top;
     padding: 0 5px;
 }
 
+#actividad .workspace.multiplechoice_horizontal>ul.move-text {
+    text-align: center;
+}
+
 .slide_main .multiple-solution-marker {
     display: none;
 }
