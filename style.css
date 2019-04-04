@@ -895,11 +895,21 @@ background-color: #00800000;
     color: #ea5b0c;
 }
 
-/*Título 1 - Rojo*/
+/*Título 1*/
 .bck-title-1 {
     color: #F03F23;
     font-size: 3.2rem;
     text-align: center;
+    font-weight: 700;
+    font-family: JacobyICG;
+}
+
+/*Título 1-Izquierda*/
+.bck-title-9 {
+    color: #F03F23;
+    font-size: 3.2rem;
+    text-align: left;
+    padding-left: 20px;
     font-weight: 700;
     font-family: JacobyICG;
 }
@@ -2668,6 +2678,10 @@ table,
     color: #ba007c;
 }
 
+.activitytag_rosa_yam .bck-title-9 {
+    color: #ba007c;
+}
+
 /*Dropdown 1*/
 
 .activitytag_rosa_yam .bck-dropdown.bck-dropdown-1 {
@@ -2762,6 +2776,10 @@ table,
 }
 
 .activitytag_amarillo_yam .bck-title-1 {
+    color: #e9bb00;
+}
+
+.activitytag_amarillo_yam .bck-title-9 {
     color: #e9bb00;
 }
 
@@ -2864,6 +2882,10 @@ table,
     color: #b6c72c;
 }
 
+.activitytag_verdeclaro_yam .bck-title-9 {
+    color: #b6c72c;
+}
+
 /*Dropdown 1*/
 
 .activitytag_verdeclaro_yam .bck-dropdown.bck-dropdown-1 {
@@ -2961,6 +2983,10 @@ table,
     color: #005ca4;
 }
 
+.activitytag_azuloscuro_yam .bck-title-9 {
+    color: #005ca4;
+}
+
 /*Dropdown 1*/
 
 .activitytag_azuloscuro_yam .bck-dropdown.bck-dropdown-1 {
@@ -3055,6 +3081,10 @@ table,
 }
 
 .activitytag_morado_yam .bck-title-1 {
+    color: #66127d;
+}
+
+.activitytag_morado_yam .bck-title-9 {
     color: #66127d;
 }
 
@@ -3156,6 +3186,10 @@ table,
     color: #db9600;
 }
 
+.activitytag_naranja_yam .bck-title-9 {
+    color: #db9600;
+}
+
 /*Dropdown 1*/
 
 .activitytag_naranja_yam .bck-dropdown.bck-dropdown-1 {
@@ -3251,6 +3285,10 @@ table,
 }
 
 .activitytag_verde_yam .bck-title-1 {
+    color: #71a93c;
+}
+
+.activitytag_verde_yam .bck-title-9 {
     color: #71a93c;
 }
 
