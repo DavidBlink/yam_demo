@@ -31,6 +31,7 @@
 				{ name: 'FontInfantil', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
 				{ name: 'FontInfantilPuntos', element: 'span', attributes: { 'class': 'bck-enfasis-3'} },
 				{ name: 'FontEjemploCursiva', element: 'span', attributes: { 'class': 'bck-enfasis-4'} },
+				{ name: 'FontHurmeGeometric', element: 'span', attributes: { 'class': 'bck-enfasis-5'} },
 				
 				
 				{ name: 'Lista Desordenada', element: 'ul', attributes: { 'class': 'bck-ul-3'} },
