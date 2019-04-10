@@ -2612,16 +2612,16 @@ table,
 /*-----------------------------------TAGS--------------------------*/
 
 /*  Unit 1 - Azul (por defecto) || unittag_azul_yam
-    Unit 2 - activitytag_rosa_yam || unittag_rosa_yam = #ba007c
+    Unit 2 - unittag_rosa_yam || unittag_rosa_yam = #ba007c
     REVIEW Unit 1 y 2 - Azul y Rosa (secciones)
-    Unit 3 - Amarillo activitytag_amarillo_yam || unittag_amarillo_yam #e9bb00
-    Unit 4 - Verde Claro activitytag_verdeclaro_yam || unittag_verdeclaro_yam #b6c72c
+    Unit 3 - Amarillo unittag_amarillo_yam || unittag_amarillo_yam #e9bb00
+    Unit 4 - Verde Claro unittag_verdeclaro_yam || unittag_verdeclaro_yam #b6c72c
     REVIEW Unit 3 y 4 - Amarillo y Verde claro (secciones)
-    Unit 5 - Azul Oscuro activitytag_azuloscuro_yam || unittag_azuloscuro_yam #005ca4
-    Unit 6 - Morado activitytag_morado_yam || unittag_morado_yam #66127d
+    Unit 5 - Azul Oscuro unittag_azuloscuro_yam || unittag_azuloscuro_yam #005ca4
+    Unit 6 - Morado unittag_morado_yam || unittag_morado_yam #66127d
     REVIEW Unit 5 y 6 - Azul Oscuro y Morado (secciones)
-    Unit 7 - Naranja activitytag_naranja_yam || unittag_naranja_yam #db9600
-    Unit 8 - Verde activitytag_verde_yam || unittag_verde_yam #70a83b
+    Unit 7 - Naranja unittag_naranja_yam || unittag_naranja_yam #db9600
+    Unit 8 - Verde unittag_verde_yam || unittag_verde_yam #70a83b
     Review Unit 7 y 8 - Naranja y Verde (secciones) */
 
 
@@ -2630,100 +2630,100 @@ table,
 /*Elementos Unit 2 - Rosa*/
 
 /*Titulo Slide*/
-.activitytag_rosa_yam #actividad .content .header .title h3 {
+.unittag_rosa_yam #actividad .content .header .title h3 {
     background-color: #ba007c; 
 }
 
 /*Lista 1*/
-.activitytag_rosa_yam #actividad .content .cke_contents .bck-ol-1 li:before,
-.activitytag_rosa_yam #actividad .content .texto_curso .bck-ol-1 li:before,
-.activitytag_rosa_yam #actividad .popover-content .bck-ol-1 li:before,
-.activitytag_rosa_yam #actividad .content .workspace ul li .bck-ol-1 li:before {
+.unittag_rosa_yam #actividad .content .cke_contents .bck-ol-1 li:before,
+.unittag_rosa_yam #actividad .content .texto_curso .bck-ol-1 li:before,
+.unittag_rosa_yam #actividad .popover-content .bck-ol-1 li:before,
+.unittag_rosa_yam #actividad .content .workspace ul li .bck-ol-1 li:before {
     color: #ba007c;
 }
 
 /*Lista 2*/
-.activitytag_rosa_yam #actividad .content .cke_contents .bck-ol-2 li:before,
-.activitytag_rosa_yam #actividad .content .texto_curso .bck-ol-2 li:before,
-.activitytag_rosa_yam #actividad .popover-content .bck-ol-2 li:before,
-.activitytag_rosa_yam #actividad .content .workspace ul li .bck-ol-2 li:before {
+.unittag_rosa_yam #actividad .content .cke_contents .bck-ol-2 li:before,
+.unittag_rosa_yam #actividad .content .texto_curso .bck-ol-2 li:before,
+.unittag_rosa_yam #actividad .popover-content .bck-ol-2 li:before,
+.unittag_rosa_yam #actividad .content .workspace ul li .bck-ol-2 li:before {
     color: #ba007c;
 }
 
 /*Lista 3 - Circulo*/
-.activitytag_rosa_yam #actividad .content .cke_contents .bck-ol-3 li:before,
-.activitytag_rosa_yam #actividad .content .texto_curso .bck-ol-3 li:before,
-.activitytag_rosa_yam #actividad .popover-content .bck-ol-3 li:before,
-.activitytag_rosa_yam #actividad .content .workspace ul li .bck-ol-3 li:before {
+.unittag_rosa_yam #actividad .content .cke_contents .bck-ol-3 li:before,
+.unittag_rosa_yam #actividad .content .texto_curso .bck-ol-3 li:before,
+.unittag_rosa_yam #actividad .popover-content .bck-ol-3 li:before,
+.unittag_rosa_yam #actividad .content .workspace ul li .bck-ol-3 li:before {
     color: #ba007c;
     border: 3px solid #BFD630;
 }
 
 /*Lista LetraMinus*/
-.activitytag_rosa_yam #actividad .content .cke_contents .bck-ol-4 li:before,
-.activitytag_rosa_yam #actividad .content .texto_curso ol.bck-ol-4 li:before,
-.activitytag_rosa_yam #actividad .popover-content ol.bck-ol-4 li:before,
-.activitytag_rosa_yam #actividad .content .workspace ul li ol.bck-ol-4 li:before {
+.unittag_rosa_yam #actividad .content .cke_contents .bck-ol-4 li:before,
+.unittag_rosa_yam #actividad .content .texto_curso ol.bck-ol-4 li:before,
+.unittag_rosa_yam #actividad .popover-content ol.bck-ol-4 li:before,
+.unittag_rosa_yam #actividad .content .workspace ul li ol.bck-ol-4 li:before {
     color: #ba007c;
 }
 
 
 /*Lista desordenada 3*/
-.activitytag_rosa_yam #actividad .content .texto_curso .bck-ul-3 li:before,
-.activitytag_rosa_yam #actividad .content .workspace ul li .bck-ul-3 li:before ,
-.activitytag_rosa_yam #actividad .popover-background.shown .popover-content > ul > li:before{
+.unittag_rosa_yam #actividad .content .texto_curso .bck-ul-3 li:before,
+.unittag_rosa_yam #actividad .content .workspace ul li .bck-ul-3 li:before ,
+.unittag_rosa_yam #actividad .popover-background.shown .popover-content > ul > li:before{
     background-color: #ba007c;
 }
 
 
 /*Caja borde color*/
-.activitytag_rosa_yam .bck-box.bck-box-4 {
+.unittag_rosa_yam .bck-box.bck-box-4 {
     border: 2px solid #ba007c;
 }
 
-.activitytag_rosa_yam .bck-title-1 {
+.unittag_rosa_yam .bck-title-1 {
     color: #ba007c;
 }
 
-.activitytag_rosa_yam .bck-title-9 {
+.unittag_rosa_yam .bck-title-9 {
     color: #ba007c;
 }
 
 /*Dropdown 1*/
 
-.activitytag_rosa_yam .bck-dropdown.bck-dropdown-1 {
+.unittag_rosa_yam .bck-dropdown.bck-dropdown-1 {
     background-color: #ba007c;
 }
 
 
-.activitytag_rosa_yam .bck-dropdown-1 .bck-dropdown-icon {
+.unittag_rosa_yam .bck-dropdown-1 .bck-dropdown-icon {
     background-color: #ba007c;
 }
 
-.activitytag_rosa_yam .bck-table-2 {
+.unittag_rosa_yam .bck-table-2 {
     border: 1px solid #ba007c;
 }
 
-.activitytag_rosa_yam .bck-table-2 td {
+.unittag_rosa_yam .bck-table-2 td {
     border: 1px solid #ba007c;
 }
 
 /*celda rosa*/
-.activitytag_rosa_yam .bck-td-2 {
+.unittag_rosa_yam .bck-td-2 {
     color: #ffffff;
     background: #ba007c;
     text-align: center;
 }
 
-.activitytag_rosa_yam .fillblanks-draggable-wrapper .response {
+.unittag_rosa_yam .fillblanks-draggable-wrapper .response {
     border: 3px solid #ba007c;
 }
 
-.activitytag_rosa_yam .bck-title-4 {
+.unittag_rosa_yam .bck-title-4 {
     color: #ba007c;
 }
 
-.activitytag_rosa_yam .slide_main input:focus {
+.unittag_rosa_yam .slide_main input:focus {
     border-color: #ba007c;
 }
 
@@ -2732,99 +2732,99 @@ table,
 /*Elementos Unit 3 - Amarillo*/
 
 /*Titulo Slide*/
-.activitytag_amarillo_yam #actividad .content .header .title h3 {
+.unittag_amarillo_yam #actividad .content .header .title h3 {
     background-color: #e9bb00; 
 }
 
 /*Lista 1*/
-.activitytag_amarillo_yam #actividad .content .cke_contents .bck-ol-1 li:before,
-.activitytag_amarillo_yam #actividad .content .texto_curso .bck-ol-1 li:before,
-.activitytag_amarillo_yam #actividad .popover-content .bck-ol-1 li:before,
-.activitytag_amarillo_yam #actividad .content .workspace ul li .bck-ol-1 li:before {
+.unittag_amarillo_yam #actividad .content .cke_contents .bck-ol-1 li:before,
+.unittag_amarillo_yam #actividad .content .texto_curso .bck-ol-1 li:before,
+.unittag_amarillo_yam #actividad .popover-content .bck-ol-1 li:before,
+.unittag_amarillo_yam #actividad .content .workspace ul li .bck-ol-1 li:before {
     color: #e9bb00;
 }
 
 /*Lista 2*/
-.activitytag_amarillo_yam #actividad .content .cke_contents .bck-ol-2 li:before,
-.activitytag_amarillo_yam #actividad .content .texto_curso .bck-ol-2 li:before,
-.activitytag_amarillo_yam #actividad .popover-content .bck-ol-2 li:before,
-.activitytag_amarillo_yam #actividad .content .workspace ul li .bck-ol-2 li:before {
+.unittag_amarillo_yam #actividad .content .cke_contents .bck-ol-2 li:before,
+.unittag_amarillo_yam #actividad .content .texto_curso .bck-ol-2 li:before,
+.unittag_amarillo_yam #actividad .popover-content .bck-ol-2 li:before,
+.unittag_amarillo_yam #actividad .content .workspace ul li .bck-ol-2 li:before {
     color: #e9bb00;
 }
 
 /*Lista 3 - Circulo*/
-.activitytag_amarillo_yam #actividad .content .cke_contents .bck-ol-3 li:before,
-.activitytag_amarillo_yam #actividad .content .texto_curso .bck-ol-3 li:before,
-.activitytag_amarillo_yam #actividad .popover-content .bck-ol-3 li:before,
-.activitytag_amarillo_yam #actividad .content .workspace ul li .bck-ol-3 li:before {
+.unittag_amarillo_yam #actividad .content .cke_contents .bck-ol-3 li:before,
+.unittag_amarillo_yam #actividad .content .texto_curso .bck-ol-3 li:before,
+.unittag_amarillo_yam #actividad .popover-content .bck-ol-3 li:before,
+.unittag_amarillo_yam #actividad .content .workspace ul li .bck-ol-3 li:before {
     color: #e9bb00;
     border: 3px solid #BFD630;
 }
 
 /*Lista LetraMinus*/
-.activitytag_amarillo_yam #actividad .content .cke_contents .bck-ol-4 li:before,
-.activitytag_amarillo_yam #actividad .content .texto_curso ol.bck-ol-4 li:before,
-.activitytag_amarillo_yam #actividad .popover-content ol.bck-ol-4 li:before,
-.activitytag_amarillo_yam #actividad .content .workspace ul li ol.bck-ol-4 li:before {
+.unittag_amarillo_yam #actividad .content .cke_contents .bck-ol-4 li:before,
+.unittag_amarillo_yam #actividad .content .texto_curso ol.bck-ol-4 li:before,
+.unittag_amarillo_yam #actividad .popover-content ol.bck-ol-4 li:before,
+.unittag_amarillo_yam #actividad .content .workspace ul li ol.bck-ol-4 li:before {
     color: #e9bb00;
 }
 
 
 /*Lista desordenada 3*/
-.activitytag_amarillo_yam #actividad .content .texto_curso .bck-ul-3 li:before,
-.activitytag_amarillo_yam #actividad .content .workspace ul li .bck-ul-3 li:before ,
-.activitytag_amarillo_yam #actividad .popover-background.shown .popover-content > ul > li:before{
+.unittag_amarillo_yam #actividad .content .texto_curso .bck-ul-3 li:before,
+.unittag_amarillo_yam #actividad .content .workspace ul li .bck-ul-3 li:before ,
+.unittag_amarillo_yam #actividad .popover-background.shown .popover-content > ul > li:before{
     background-color: #e9bb00;
 }
 
 /*Caja borde color*/
-.activitytag_amarillo_yam .bck-box.bck-box-4 {
+.unittag_amarillo_yam .bck-box.bck-box-4 {
     border: 2px solid #e9bb00;
 }
 
-.activitytag_amarillo_yam .bck-title-1 {
+.unittag_amarillo_yam .bck-title-1 {
     color: #e9bb00;
 }
 
-.activitytag_amarillo_yam .bck-title-9 {
+.unittag_amarillo_yam .bck-title-9 {
     color: #e9bb00;
 }
 
 /*Dropdown 1*/
 
-.activitytag_amarillo_yam .bck-dropdown.bck-dropdown-1 {
+.unittag_amarillo_yam .bck-dropdown.bck-dropdown-1 {
     background-color: #e9bb00;
 }
 
 
-.activitytag_amarillo_yam .bck-dropdown-1 .bck-dropdown-icon {
+.unittag_amarillo_yam .bck-dropdown-1 .bck-dropdown-icon {
     background-color: #e9bb00;
 }
 
-.activitytag_amarillo_yam .bck-table-2 {
+.unittag_amarillo_yam .bck-table-2 {
     border: 1px solid #e9bb00;
 }
 
-.activitytag_amarillo_yam .bck-table-2 td {
+.unittag_amarillo_yam .bck-table-2 td {
     border: 1px solid #e9bb00;
 }
 
 /*celda amarillo*/
-.activitytag_amarillo_yam .bck-td-2 {
+.unittag_amarillo_yam .bck-td-2 {
     color: #ffffff;
     background: #e9bb00;
     text-align: center;
 }
 
-.activitytag_amarillo_yam .fillblanks-draggable-wrapper .response {
+.unittag_amarillo_yam .fillblanks-draggable-wrapper .response {
     border: 3px solid #e9bb00;
 }
 
-.activitytag_amarillo_yam .bck-title-4 {
+.unittag_amarillo_yam .bck-title-4 {
     color: #e9bb00;
 }
 
-.activitytag_amarillo_yam .slide_main input:focus {
+.unittag_amarillo_yam .slide_main input:focus {
     border-color: #e9bb00;
 }
 
@@ -2834,100 +2834,100 @@ table,
 /*Elementos Unit 4 - Verde claro*/
 
 /*Titulo Slide*/
-.activitytag_verdeclaro_yam #actividad .content .header .title h3 {
+.unittag_verdeclaro_yam #actividad .content .header .title h3 {
     background-color: #b6c72c; 
 }
 
 /*Lista 1*/
-.activitytag_verdeclaro_yam #actividad .content .cke_contents .bck-ol-1 li:before,
-.activitytag_verdeclaro_yam #actividad .content .texto_curso .bck-ol-1 li:before,
-.activitytag_verdeclaro_yam #actividad .popover-content .bck-ol-1 li:before,
-.activitytag_verdeclaro_yam #actividad .content .workspace ul li .bck-ol-1 li:before {
+.unittag_verdeclaro_yam #actividad .content .cke_contents .bck-ol-1 li:before,
+.unittag_verdeclaro_yam #actividad .content .texto_curso .bck-ol-1 li:before,
+.unittag_verdeclaro_yam #actividad .popover-content .bck-ol-1 li:before,
+.unittag_verdeclaro_yam #actividad .content .workspace ul li .bck-ol-1 li:before {
     color: #b6c72c;
 }
 
 /*Lista 2*/
-.activitytag_verdeclaro_yam #actividad .content .cke_contents .bck-ol-2 li:before,
-.activitytag_verdeclaro_yam #actividad .content .texto_curso .bck-ol-2 li:before,
-.activitytag_verdeclaro_yam #actividad .popover-content .bck-ol-2 li:before,
-.activitytag_verdeclaro_yam #actividad .content .workspace ul li .bck-ol-2 li:before {
+.unittag_verdeclaro_yam #actividad .content .cke_contents .bck-ol-2 li:before,
+.unittag_verdeclaro_yam #actividad .content .texto_curso .bck-ol-2 li:before,
+.unittag_verdeclaro_yam #actividad .popover-content .bck-ol-2 li:before,
+.unittag_verdeclaro_yam #actividad .content .workspace ul li .bck-ol-2 li:before {
     color: #b6c72c;
 }
 
 /*Lista 3 - Circulo*/
-.activitytag_verdeclaro_yam #actividad .content .cke_contents .bck-ol-3 li:before,
-.activitytag_verdeclaro_yam #actividad .content .texto_curso .bck-ol-3 li:before,
-.activitytag_verdeclaro_yam #actividad .popover-content .bck-ol-3 li:before,
-.activitytag_verdeclaro_yam #actividad .content .workspace ul li .bck-ol-3 li:before {
+.unittag_verdeclaro_yam #actividad .content .cke_contents .bck-ol-3 li:before,
+.unittag_verdeclaro_yam #actividad .content .texto_curso .bck-ol-3 li:before,
+.unittag_verdeclaro_yam #actividad .popover-content .bck-ol-3 li:before,
+.unittag_verdeclaro_yam #actividad .content .workspace ul li .bck-ol-3 li:before {
     color: #b6c72c;
     border: 3px solid #BFD630;
 }
 
 /*Lista LetraMinus*/
-.activitytag_verdeclaro_yam #actividad .content .cke_contents .bck-ol-4 li:before,
-.activitytag_verdeclaro_yam #actividad .content .texto_curso ol.bck-ol-4 li:before,
-.activitytag_verdeclaro_yam #actividad .popover-content ol.bck-ol-4 li:before,
-.activitytag_verdeclaro_yam #actividad .content .workspace ul li ol.bck-ol-4 li:before {
+.unittag_verdeclaro_yam #actividad .content .cke_contents .bck-ol-4 li:before,
+.unittag_verdeclaro_yam #actividad .content .texto_curso ol.bck-ol-4 li:before,
+.unittag_verdeclaro_yam #actividad .popover-content ol.bck-ol-4 li:before,
+.unittag_verdeclaro_yam #actividad .content .workspace ul li ol.bck-ol-4 li:before {
     color: #b6c72c;
 }
 
 
 /*Lista desordenada 3*/
-.activitytag_verdeclaro_yam #actividad .content .texto_curso .bck-ul-3 li:before,
-.activitytag_verdeclaro_yam #actividad .content .workspace ul li .bck-ul-3 li:before ,
-.activitytag_verdeclaro_yam #actividad .popover-background.shown .popover-content > ul > li:before{
+.unittag_verdeclaro_yam #actividad .content .texto_curso .bck-ul-3 li:before,
+.unittag_verdeclaro_yam #actividad .content .workspace ul li .bck-ul-3 li:before ,
+.unittag_verdeclaro_yam #actividad .popover-background.shown .popover-content > ul > li:before{
     background-color: #b6c72c;
 }
 
 
 /*Caja borde color*/
-.activitytag_verdeclaro_yam .bck-box.bck-box-4 {
+.unittag_verdeclaro_yam .bck-box.bck-box-4 {
     border: 2px solid #b6c72c;
 }
 
-.activitytag_verdeclaro_yam .bck-title-1 {
+.unittag_verdeclaro_yam .bck-title-1 {
     color: #b6c72c;
 }
 
-.activitytag_verdeclaro_yam .bck-title-9 {
+.unittag_verdeclaro_yam .bck-title-9 {
     color: #b6c72c;
 }
 
 /*Dropdown 1*/
 
-.activitytag_verdeclaro_yam .bck-dropdown.bck-dropdown-1 {
+.unittag_verdeclaro_yam .bck-dropdown.bck-dropdown-1 {
     background-color: #b6c72c;
 }
 
 
-.activitytag_verdeclaro_yam .bck-dropdown-1 .bck-dropdown-icon {
+.unittag_verdeclaro_yam .bck-dropdown-1 .bck-dropdown-icon {
     background-color: #b6c72c;
 }
 
-.activitytag_verdeclaro_yam .bck-table-2 {
+.unittag_verdeclaro_yam .bck-table-2 {
     border: 1px solid #b6c72c;
 }
 
-.activitytag_verdeclaro_yam .bck-table-2 td {
+.unittag_verdeclaro_yam .bck-table-2 td {
     border: 1px solid #b6c72c;
 }
 
 /*celda verdeclaro*/
-.activitytag_verdeclaro_yam .bck-td-2 {
+.unittag_verdeclaro_yam .bck-td-2 {
     color: #ffffff;
     background: #b6c72c;
     text-align: center;
 }
 
-.activitytag_verdeclaro_yam .fillblanks-draggable-wrapper .response {
+.unittag_verdeclaro_yam .fillblanks-draggable-wrapper .response {
     border: 3px solid #b6c72c;
 }
 
-.activitytag_verdeclaro_yam .bck-title-4 {
+.unittag_verdeclaro_yam .bck-title-4 {
     color: #b6c72c;
 }
 
-.activitytag_verdeclaro_yam .slide_main input:focus {
+.unittag_verdeclaro_yam .slide_main input:focus {
     border-color: #b6c72c;
 }
 
@@ -2936,99 +2936,99 @@ table,
 /*Elementos Unit 5 - Azul Oscuro*/
 
 /*Titulo Slide*/
-.activitytag_azuloscuro_yam #actividad .content .header .title h3 {
+.unittag_azuloscuro_yam #actividad .content .header .title h3 {
     background-color: #005ca4; 
 }
 
 /*Lista 1*/
-.activitytag_azuloscuro_yam #actividad .content .cke_contents .bck-ol-1 li:before,
-.activitytag_azuloscuro_yam #actividad .content .texto_curso .bck-ol-1 li:before,
-.activitytag_azuloscuro_yam #actividad .popover-content .bck-ol-1 li:before,
-.activitytag_azuloscuro_yam #actividad .content .workspace ul li .bck-ol-1 li:before {
+.unittag_azuloscuro_yam #actividad .content .cke_contents .bck-ol-1 li:before,
+.unittag_azuloscuro_yam #actividad .content .texto_curso .bck-ol-1 li:before,
+.unittag_azuloscuro_yam #actividad .popover-content .bck-ol-1 li:before,
+.unittag_azuloscuro_yam #actividad .content .workspace ul li .bck-ol-1 li:before {
     color: #005ca4;
 }
 
 /*Lista 2*/
-.activitytag_azuloscuro_yam #actividad .content .cke_contents .bck-ol-2 li:before,
-.activitytag_azuloscuro_yam #actividad .content .texto_curso .bck-ol-2 li:before,
-.activitytag_azuloscuro_yam #actividad .popover-content .bck-ol-2 li:before,
-.activitytag_azuloscuro_yam #actividad .content .workspace ul li .bck-ol-2 li:before {
+.unittag_azuloscuro_yam #actividad .content .cke_contents .bck-ol-2 li:before,
+.unittag_azuloscuro_yam #actividad .content .texto_curso .bck-ol-2 li:before,
+.unittag_azuloscuro_yam #actividad .popover-content .bck-ol-2 li:before,
+.unittag_azuloscuro_yam #actividad .content .workspace ul li .bck-ol-2 li:before {
     color: #005ca4;
 }
 
 /*Lista 3 - Circulo*/
-.activitytag_azuloscuro_yam #actividad .content .cke_contents .bck-ol-3 li:before,
-.activitytag_azuloscuro_yam #actividad .content .texto_curso .bck-ol-3 li:before,
-.activitytag_azuloscuro_yam #actividad .popover-content .bck-ol-3 li:before,
-.activitytag_azuloscuro_yam #actividad .content .workspace ul li .bck-ol-3 li:before {
+.unittag_azuloscuro_yam #actividad .content .cke_contents .bck-ol-3 li:before,
+.unittag_azuloscuro_yam #actividad .content .texto_curso .bck-ol-3 li:before,
+.unittag_azuloscuro_yam #actividad .popover-content .bck-ol-3 li:before,
+.unittag_azuloscuro_yam #actividad .content .workspace ul li .bck-ol-3 li:before {
     color: #005ca4;
     border: 3px solid #BFD630;
 }
 
 /*Lista LetraMinus*/
-.activitytag_azuloscuro_yam #actividad .content .cke_contents .bck-ol-4 li:before,
-.activitytag_azuloscuro_yam #actividad .content .texto_curso ol.bck-ol-4 li:before,
-.activitytag_azuloscuro_yam #actividad .popover-content ol.bck-ol-4 li:before,
-.activitytag_azuloscuro_yam #actividad .content .workspace ul li ol.bck-ol-4 li:before {
+.unittag_azuloscuro_yam #actividad .content .cke_contents .bck-ol-4 li:before,
+.unittag_azuloscuro_yam #actividad .content .texto_curso ol.bck-ol-4 li:before,
+.unittag_azuloscuro_yam #actividad .popover-content ol.bck-ol-4 li:before,
+.unittag_azuloscuro_yam #actividad .content .workspace ul li ol.bck-ol-4 li:before {
     color: #005ca4;
 }
 
 
 /*Lista desordenada 3*/
-.activitytag_azuloscuro_yam #actividad .content .texto_curso .bck-ul-3 li:before,
-.activitytag_azuloscuro_yam #actividad .content .workspace ul li .bck-ul-3 li:before ,
-.activitytag_azuloscuro_yam #actividad .popover-background.shown .popover-content > ul > li:before{
+.unittag_azuloscuro_yam #actividad .content .texto_curso .bck-ul-3 li:before,
+.unittag_azuloscuro_yam #actividad .content .workspace ul li .bck-ul-3 li:before ,
+.unittag_azuloscuro_yam #actividad .popover-background.shown .popover-content > ul > li:before{
     background-color: #005ca4;
 }
 
 /*Caja borde color*/
-.activitytag_azuloscuro_yam .bck-box.bck-box-4 {
+.unittag_azuloscuro_yam .bck-box.bck-box-4 {
     border: 2px solid #005ca4;
 }
 
-.activitytag_azuloscuro_yam .bck-title-1 {
+.unittag_azuloscuro_yam .bck-title-1 {
     color: #005ca4;
 }
 
-.activitytag_azuloscuro_yam .bck-title-9 {
+.unittag_azuloscuro_yam .bck-title-9 {
     color: #005ca4;
 }
 
 /*Dropdown 1*/
 
-.activitytag_azuloscuro_yam .bck-dropdown.bck-dropdown-1 {
+.unittag_azuloscuro_yam .bck-dropdown.bck-dropdown-1 {
     background-color: #005ca4;
 }
 
 
-.activitytag_azuloscuro_yam .bck-dropdown-1 .bck-dropdown-icon {
+.unittag_azuloscuro_yam .bck-dropdown-1 .bck-dropdown-icon {
     background-color: #005ca4;
 }
 
-.activitytag_azuloscuro_yam .bck-table-2 {
+.unittag_azuloscuro_yam .bck-table-2 {
     border: 1px solid #005ca4;
 }
 
-.activitytag_azuloscuro_yam .bck-table-2 td {
+.unittag_azuloscuro_yam .bck-table-2 td {
     border: 1px solid #005ca4;
 }
 
 /*celda azuloscuro*/
-.activitytag_azuloscuro_yam .bck-td-2 {
+.unittag_azuloscuro_yam .bck-td-2 {
     color: #ffffff;
     background: #005ca4;
     text-align: center;
 }
 
-.activitytag_azuloscuro_yam .fillblanks-draggable-wrapper .response {
+.unittag_azuloscuro_yam .fillblanks-draggable-wrapper .response {
     border: 3px solid #005ca4;
 }
 
-.activitytag_azuloscuro_yam .bck-title-4 {
+.unittag_azuloscuro_yam .bck-title-4 {
     color: #005ca4;
 }
 
-.activitytag_azuloscuro_yam .slide_main input:focus {
+.unittag_azuloscuro_yam .slide_main input:focus {
     border-color: #005ca4;
 }
 
@@ -3037,99 +3037,99 @@ table,
 /*Elementos Unit 6 - Morado*/
 
 /*Titulo Slide*/
-.activitytag_morado_yam #actividad .content .header .title h3 {
+.unittag_morado_yam #actividad .content .header .title h3 {
     background-color: #66127d; 
 }
 
 /*Lista 1*/
-.activitytag_morado_yam #actividad .content .cke_contents .bck-ol-1 li:before,
-.activitytag_morado_yam #actividad .content .texto_curso .bck-ol-1 li:before,
-.activitytag_morado_yam #actividad .popover-content .bck-ol-1 li:before,
-.activitytag_morado_yam #actividad .content .workspace ul li .bck-ol-1 li:before {
+.unittag_morado_yam #actividad .content .cke_contents .bck-ol-1 li:before,
+.unittag_morado_yam #actividad .content .texto_curso .bck-ol-1 li:before,
+.unittag_morado_yam #actividad .popover-content .bck-ol-1 li:before,
+.unittag_morado_yam #actividad .content .workspace ul li .bck-ol-1 li:before {
     color: #66127d;
 }
 
 /*Lista 2*/
-.activitytag_morado_yam #actividad .content .cke_contents .bck-ol-2 li:before,
-.activitytag_morado_yam #actividad .content .texto_curso .bck-ol-2 li:before,
-.activitytag_morado_yam #actividad .popover-content .bck-ol-2 li:before,
-.activitytag_morado_yam #actividad .content .workspace ul li .bck-ol-2 li:before {
+.unittag_morado_yam #actividad .content .cke_contents .bck-ol-2 li:before,
+.unittag_morado_yam #actividad .content .texto_curso .bck-ol-2 li:before,
+.unittag_morado_yam #actividad .popover-content .bck-ol-2 li:before,
+.unittag_morado_yam #actividad .content .workspace ul li .bck-ol-2 li:before {
     color: #66127d;
 }
 
 /*Lista 3 - Circulo*/
-.activitytag_morado_yam #actividad .content .cke_contents .bck-ol-3 li:before,
-.activitytag_morado_yam #actividad .content .texto_curso .bck-ol-3 li:before,
-.activitytag_morado_yam #actividad .popover-content .bck-ol-3 li:before,
-.activitytag_morado_yam #actividad .content .workspace ul li .bck-ol-3 li:before {
+.unittag_morado_yam #actividad .content .cke_contents .bck-ol-3 li:before,
+.unittag_morado_yam #actividad .content .texto_curso .bck-ol-3 li:before,
+.unittag_morado_yam #actividad .popover-content .bck-ol-3 li:before,
+.unittag_morado_yam #actividad .content .workspace ul li .bck-ol-3 li:before {
     color: #66127d;
     border: 3px solid #BFD630;
 }
 
 /*Lista LetraMinus*/
-.activitytag_morado_yam #actividad .content .cke_contents .bck-ol-4 li:before,
-.activitytag_morado_yam #actividad .content .texto_curso ol.bck-ol-4 li:before,
-.activitytag_morado_yam #actividad .popover-content ol.bck-ol-4 li:before,
-.activitytag_morado_yam #actividad .content .workspace ul li ol.bck-ol-4 li:before {
+.unittag_morado_yam #actividad .content .cke_contents .bck-ol-4 li:before,
+.unittag_morado_yam #actividad .content .texto_curso ol.bck-ol-4 li:before,
+.unittag_morado_yam #actividad .popover-content ol.bck-ol-4 li:before,
+.unittag_morado_yam #actividad .content .workspace ul li ol.bck-ol-4 li:before {
     color: #66127d;
 }
 
 
 /*Lista desordenada 3*/
-.activitytag_morado_yam #actividad .content .texto_curso .bck-ul-3 li:before,
-.activitytag_morado_yam #actividad .content .workspace ul li .bck-ul-3 li:before ,
-.activitytag_morado_yam #actividad .popover-background.shown .popover-content > ul > li:before{
+.unittag_morado_yam #actividad .content .texto_curso .bck-ul-3 li:before,
+.unittag_morado_yam #actividad .content .workspace ul li .bck-ul-3 li:before ,
+.unittag_morado_yam #actividad .popover-background.shown .popover-content > ul > li:before{
     background-color: #66127d;
 }
 
 /*Caja borde color*/
-.activitytag_morado_yam .bck-box.bck-box-4 {
+.unittag_morado_yam .bck-box.bck-box-4 {
     border: 2px solid #66127d;
 }
 
-.activitytag_morado_yam .bck-title-1 {
+.unittag_morado_yam .bck-title-1 {
     color: #66127d;
 }
 
-.activitytag_morado_yam .bck-title-9 {
+.unittag_morado_yam .bck-title-9 {
     color: #66127d;
 }
 
 /*Dropdown 1*/
 
-.activitytag_morado_yam .bck-dropdown.bck-dropdown-1 {
+.unittag_morado_yam .bck-dropdown.bck-dropdown-1 {
     background-color: #66127d;
 }
 
 
-.activitytag_morado_yam .bck-dropdown-1 .bck-dropdown-icon {
+.unittag_morado_yam .bck-dropdown-1 .bck-dropdown-icon {
     background-color: #66127d;
 }
 
-.activitytag_morado_yam .bck-table-2 {
+.unittag_morado_yam .bck-table-2 {
     border: 1px solid #66127d;
 }
 
-.activitytag_morado_yam .bck-table-2 td {
+.unittag_morado_yam .bck-table-2 td {
     border: 1px solid #66127d;
 }
 
 /*celda morado*/
-.activitytag_morado_yam .bck-td-2 {
+.unittag_morado_yam .bck-td-2 {
     color: #ffffff;
     background: #66127d;
     text-align: center;
 }
 
-.activitytag_morado_yam .fillblanks-draggable-wrapper .response {
+.unittag_morado_yam .fillblanks-draggable-wrapper .response {
     border: 3px solid #66127d;
 }
 
-.activitytag_morado_yam .bck-title-4 {
+.unittag_morado_yam .bck-title-4 {
     color: #66127d;
 }
 
-.activitytag_morado_yam .slide_main input:focus {
+.unittag_morado_yam .slide_main input:focus {
     border-color: #66127d;
 }
 
@@ -3139,99 +3139,99 @@ table,
 /*Elementos Unit 7 - Naranja*/
 
 /*Titulo Slide*/
-.activitytag_naranja_yam #actividad .content .header .title h3 {
+.unittag_naranja_yam #actividad .content .header .title h3 {
     background-color: #db9600; 
 }
 
 /*Lista 1*/
-.activitytag_naranja_yam #actividad .content .cke_contents .bck-ol-1 li:before,
-.activitytag_naranja_yam #actividad .content .texto_curso .bck-ol-1 li:before,
-.activitytag_naranja_yam #actividad .popover-content .bck-ol-1 li:before,
-.activitytag_naranja_yam #actividad .content .workspace ul li .bck-ol-1 li:before {
+.unittag_naranja_yam #actividad .content .cke_contents .bck-ol-1 li:before,
+.unittag_naranja_yam #actividad .content .texto_curso .bck-ol-1 li:before,
+.unittag_naranja_yam #actividad .popover-content .bck-ol-1 li:before,
+.unittag_naranja_yam #actividad .content .workspace ul li .bck-ol-1 li:before {
     color: #db9600;
 }
 
 /*Lista 2*/
-.activitytag_naranja_yam #actividad .content .cke_contents .bck-ol-2 li:before,
-.activitytag_naranja_yam #actividad .content .texto_curso .bck-ol-2 li:before,
-.activitytag_naranja_yam #actividad .popover-content .bck-ol-2 li:before,
-.activitytag_naranja_yam #actividad .content .workspace ul li .bck-ol-2 li:before {
+.unittag_naranja_yam #actividad .content .cke_contents .bck-ol-2 li:before,
+.unittag_naranja_yam #actividad .content .texto_curso .bck-ol-2 li:before,
+.unittag_naranja_yam #actividad .popover-content .bck-ol-2 li:before,
+.unittag_naranja_yam #actividad .content .workspace ul li .bck-ol-2 li:before {
     color: #db9600;
 }
 
 /*Lista 3 - Circulo*/
-.activitytag_naranja_yam #actividad .content .cke_contents .bck-ol-3 li:before,
-.activitytag_naranja_yam #actividad .content .texto_curso .bck-ol-3 li:before,
-.activitytag_naranja_yam #actividad .popover-content .bck-ol-3 li:before,
-.activitytag_naranja_yam #actividad .content .workspace ul li .bck-ol-3 li:before {
+.unittag_naranja_yam #actividad .content .cke_contents .bck-ol-3 li:before,
+.unittag_naranja_yam #actividad .content .texto_curso .bck-ol-3 li:before,
+.unittag_naranja_yam #actividad .popover-content .bck-ol-3 li:before,
+.unittag_naranja_yam #actividad .content .workspace ul li .bck-ol-3 li:before {
     color: #db9600;
     border: 3px solid #BFD630;
 }
 
 /*Lista LetraMinus*/
-.activitytag_naranja_yam #actividad .content .cke_contents .bck-ol-4 li:before,
-.activitytag_naranja_yam #actividad .content .texto_curso ol.bck-ol-4 li:before,
-.activitytag_naranja_yam #actividad .popover-content ol.bck-ol-4 li:before,
-.activitytag_naranja_yam #actividad .content .workspace ul li ol.bck-ol-4 li:before {
+.unittag_naranja_yam #actividad .content .cke_contents .bck-ol-4 li:before,
+.unittag_naranja_yam #actividad .content .texto_curso ol.bck-ol-4 li:before,
+.unittag_naranja_yam #actividad .popover-content ol.bck-ol-4 li:before,
+.unittag_naranja_yam #actividad .content .workspace ul li ol.bck-ol-4 li:before {
     color: #db9600;
 }
 
 
 /*Lista desordenada 3*/
-.activitytag_naranja_yam #actividad .content .texto_curso .bck-ul-3 li:before,
-.activitytag_naranja_yam #actividad .content .workspace ul li .bck-ul-3 li:before ,
-.activitytag_naranja_yam #actividad .popover-background.shown .popover-content > ul > li:before{
+.unittag_naranja_yam #actividad .content .texto_curso .bck-ul-3 li:before,
+.unittag_naranja_yam #actividad .content .workspace ul li .bck-ul-3 li:before ,
+.unittag_naranja_yam #actividad .popover-background.shown .popover-content > ul > li:before{
     background-color: #db9600;
 }
 
 /*Caja borde color*/
-.activitytag_naranja_yam .bck-box.bck-box-4 {
+.unittag_naranja_yam .bck-box.bck-box-4 {
     border: 2px solid #db9600;
 }
 
-.activitytag_naranja_yam .bck-title-1 {
+.unittag_naranja_yam .bck-title-1 {
     color: #db9600;
 }
 
-.activitytag_naranja_yam .bck-title-9 {
+.unittag_naranja_yam .bck-title-9 {
     color: #db9600;
 }
 
 /*Dropdown 1*/
 
-.activitytag_naranja_yam .bck-dropdown.bck-dropdown-1 {
+.unittag_naranja_yam .bck-dropdown.bck-dropdown-1 {
     background-color: #db9600;
 }
 
 
-.activitytag_naranja_yam .bck-dropdown-1 .bck-dropdown-icon {
+.unittag_naranja_yam .bck-dropdown-1 .bck-dropdown-icon {
     background-color: #db9600;
 }
 
-.activitytag_naranja_yam .bck-table-2 {
+.unittag_naranja_yam .bck-table-2 {
     border: 1px solid #db9600;
 }
 
-.activitytag_naranja_yam .bck-table-2 td {
+.unittag_naranja_yam .bck-table-2 td {
     border: 1px solid #db9600;
 }
 
 /*celda naranja*/
-.activitytag_naranja_yam .bck-td-2 {
+.unittag_naranja_yam .bck-td-2 {
     color: #ffffff;
     background: #db9600;
     text-align: center;
 }
 
-.activitytag_naranja_yam .fillblanks-draggable-wrapper .response {
+.unittag_naranja_yam .fillblanks-draggable-wrapper .response {
     border: 3px solid #db9600;
 }
 
-.activitytag_naranja_yam .bck-title-4 {
+.unittag_naranja_yam .bck-title-4 {
     color: #db9600;
 }
 
-.activitytag_naranja_yam .slide_main input:focus {
+.unittag_naranja_yam .slide_main input:focus {
     border-color: #db9600;
 }
 
@@ -3241,99 +3241,99 @@ table,
 /*Elementos Unit 8 - Verde*/
 
 /*Titulo Slide*/
-.activitytag_verde_yam #actividad .content .header .title h3 {
+.unittag_verde_yam #actividad .content .header .title h3 {
     background-color: #71a93c; 
 }
 
 /*Lista 1*/
-.activitytag_verde_yam #actividad .content .cke_contents .bck-ol-1 li:before,
-.activitytag_verde_yam #actividad .content .texto_curso .bck-ol-1 li:before,
-.activitytag_verde_yam #actividad .popover-content .bck-ol-1 li:before,
-.activitytag_verde_yam #actividad .content .workspace ul li .bck-ol-1 li:before {
+.unittag_verde_yam #actividad .content .cke_contents .bck-ol-1 li:before,
+.unittag_verde_yam #actividad .content .texto_curso .bck-ol-1 li:before,
+.unittag_verde_yam #actividad .popover-content .bck-ol-1 li:before,
+.unittag_verde_yam #actividad .content .workspace ul li .bck-ol-1 li:before {
     color: #71a93c;
 }
 
 /*Lista 2*/
-.activitytag_verde_yam #actividad .content .cke_contents .bck-ol-2 li:before,
-.activitytag_verde_yam #actividad .content .texto_curso .bck-ol-2 li:before,
-.activitytag_verde_yam #actividad .popover-content .bck-ol-2 li:before,
-.activitytag_verde_yam #actividad .content .workspace ul li .bck-ol-2 li:before {
+.unittag_verde_yam #actividad .content .cke_contents .bck-ol-2 li:before,
+.unittag_verde_yam #actividad .content .texto_curso .bck-ol-2 li:before,
+.unittag_verde_yam #actividad .popover-content .bck-ol-2 li:before,
+.unittag_verde_yam #actividad .content .workspace ul li .bck-ol-2 li:before {
     color: #71a93c;
 }
 
 /*Lista 3 - Circulo*/
-.activitytag_verde_yam #actividad .content .cke_contents .bck-ol-3 li:before,
-.activitytag_verde_yam #actividad .content .texto_curso .bck-ol-3 li:before,
-.activitytag_verde_yam #actividad .popover-content .bck-ol-3 li:before,
-.activitytag_verde_yam #actividad .content .workspace ul li .bck-ol-3 li:before {
+.unittag_verde_yam #actividad .content .cke_contents .bck-ol-3 li:before,
+.unittag_verde_yam #actividad .content .texto_curso .bck-ol-3 li:before,
+.unittag_verde_yam #actividad .popover-content .bck-ol-3 li:before,
+.unittag_verde_yam #actividad .content .workspace ul li .bck-ol-3 li:before {
     color: #71a93c;
     border: 3px solid #BFD630;
 }
 
 /*Lista LetraMinus*/
-.activitytag_verde_yam #actividad .content .cke_contents .bck-ol-4 li:before,
-.activitytag_verde_yam #actividad .content .texto_curso ol.bck-ol-4 li:before,
-.activitytag_verde_yam #actividad .popover-content ol.bck-ol-4 li:before,
-.activitytag_verde_yam #actividad .content .workspace ul li ol.bck-ol-4 li:before {
+.unittag_verde_yam #actividad .content .cke_contents .bck-ol-4 li:before,
+.unittag_verde_yam #actividad .content .texto_curso ol.bck-ol-4 li:before,
+.unittag_verde_yam #actividad .popover-content ol.bck-ol-4 li:before,
+.unittag_verde_yam #actividad .content .workspace ul li ol.bck-ol-4 li:before {
     color: #71a93c;
 }
 
 
 /*Lista desordenada 3*/
-.activitytag_verde_yam #actividad .content .texto_curso .bck-ul-3 li:before,
-.activitytag_verde_yam #actividad .content .workspace ul li .bck-ul-3 li:before ,
-.activitytag_verde_yam #actividad .popover-background.shown .popover-content > ul > li:before{
+.unittag_verde_yam #actividad .content .texto_curso .bck-ul-3 li:before,
+.unittag_verde_yam #actividad .content .workspace ul li .bck-ul-3 li:before ,
+.unittag_verde_yam #actividad .popover-background.shown .popover-content > ul > li:before{
     background-color: #71a93c;
 }
 
 /*Caja borde color*/
-.activitytag_verde_yam .bck-box.bck-box-4 {
+.unittag_verde_yam .bck-box.bck-box-4 {
     border: 2px solid #71a93c;
 }
 
-.activitytag_verde_yam .bck-title-1 {
+.unittag_verde_yam .bck-title-1 {
     color: #71a93c;
 }
 
-.activitytag_verde_yam .bck-title-9 {
+.unittag_verde_yam .bck-title-9 {
     color: #71a93c;
 }
 
 /*Dropdown 1*/
 
-.activitytag_verde_yam .bck-dropdown.bck-dropdown-1 {
+.unittag_verde_yam .bck-dropdown.bck-dropdown-1 {
     background-color: #71a93c;
 }
 
 
-.activitytag_verde_yam .bck-dropdown-1 .bck-dropdown-icon {
+.unittag_verde_yam .bck-dropdown-1 .bck-dropdown-icon {
     background-color: #71a93c;
 }
 
-.activitytag_verde_yam .bck-table-2 {
+.unittag_verde_yam .bck-table-2 {
     border: 1px solid #71a93c;
 }
 
-.activitytag_verde_yam .bck-table-2 td {
+.unittag_verde_yam .bck-table-2 td {
     border: 1px solid #71a93c;
 }
 
 /*celda verde*/
-.activitytag_verde_yam .bck-td-2 {
+.unittag_verde_yam .bck-td-2 {
     color: #ffffff;
     background: #71a93c;
     text-align: center;
 }
 
-.activitytag_verde_yam .fillblanks-draggable-wrapper .response {
+.unittag_verde_yam .fillblanks-draggable-wrapper .response {
     border: 3px solid #71a93c;
 }
 
-.activitytag_verde_yam .bck-title-4 {
+.unittag_verde_yam .bck-title-4 {
     color: #71a93c;
 }
 
-.activitytag_verde_yam .slide_main input:focus {
+.unittag_verde_yam .slide_main input:focus {
     border-color: #71a93c;
 }
 
